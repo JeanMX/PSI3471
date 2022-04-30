@@ -1,0 +1,2085 @@
+price,year,condition,cylinders,fuel,odometer,transmission,size,type
+11995,2018,excellent,4 cylinders,gas,19000,automatic,mid-size,sedan
+20500,2017,excellent,6 cylinders,gas,68000,automatic,full-size,sedan
+15800,2018,like new,4 cylinders,gas,41200,automatic,full-size,sedan
+20980,2015,excellent,6 cylinders,gas,82845,automatic,mid-size,sedan
+13999,2019,like new,4 cylinders,gas,29638,automatic,full-size,sedan
+7995,2013,good,4 cylinders,gas,91228,automatic,mid-size,hatchback
+8995,2017,excellent,4 cylinders,gas,12634,automatic,compact,coupe
+19495,2015,like new,4 cylinders,gas,79000,automatic,full-size,sedan
+1300,2003,fair,6 cylinders,gas,78713,automatic,full-size,sedan
+1000,2013,good,6 cylinders,gas,42000,manual,full-size,sedan
+15750,2017,like new,4 cylinders,gas,44500,automatic,compact,sedan
+6600,2017,excellent,4 cylinders,gas,90505,automatic,compact,sedan
+25999,2018,like new,4 cylinders,gas,11337,automatic,full-size,wagon
+6999,2013,excellent,4 cylinders,gas,84658,automatic,compact,hatchback
+8700,2009,excellent,6 cylinders,gas,33000,automatic,full-size,sedan
+6800,2014,good,6 cylinders,gas,80000,automatic,full-size,sedan
+12800,2020,excellent,4 cylinders,gas,19600,automatic,mid-size,sedan
+5599,2004,excellent,4 cylinders,gas,79700,automatic,compact,sedan
+23999,2014,excellent,6 cylinders,gas,32000,automatic,mid-size,sedan
+7500,2010,good,4 cylinders,gas,71000,automatic,full-size,sedan
+10995,2010,good,6 cylinders,gas,51000,automatic,full-size,sedan
+8995,2012,excellent,4 cylinders,gas,94145,automatic,compact,hatchback
+7500,2011,good,4 cylinders,gas,85800,automatic,full-size,sedan
+5995,2012,excellent,4 cylinders,gas,34906,automatic,compact,hatchback
+12995,2012,like new,4 cylinders,gas,80410,automatic,mid-size,sedan
+1500,2018,like new,6 cylinders,gas,39416,automatic,full-size,coupe
+25687,2018,like new,6 cylinders,gas,57596,automatic,full-size,sedan
+999,2019,like new,4 cylinders,gas,53000,automatic,full-size,sedan
+9000,2015,good,4 cylinders,gas,83743,automatic,compact,hatchback
+10999,2019,like new,4 cylinders,gas,40500,automatic,sub-compact,sedan
+3500,2002,excellent,4 cylinders,gas,77000,automatic,mid-size,sedan
+8995,2010,excellent,4 cylinders,gas,60211,automatic,full-size,sedan
+9999,2014,excellent,6 cylinders,gas,99000,automatic,full-size,sedan
+10000,2011,excellent,4 cylinders,gas,76930,automatic,mid-size,sedan
+24862,2019,like new,6 cylinders,gas,36559,automatic,full-size,sedan
+6495,2011,excellent,4 cylinders,gas,93000,automatic,sub-compact,hatchback
+19950,2017,excellent,4 cylinders,gas,31000,automatic,compact,sedan
+6499,2010,excellent,4 cylinders,gas,70000,automatic,compact,hatchback
+15900,2014,excellent,4 cylinders,gas,63514,automatic,mid-size,coupe
+5990,2006,excellent,6 cylinders,gas,88675,automatic,mid-size,sedan
+12997,2017,excellent,4 cylinders,gas,31519,automatic,mid-size,sedan
+3700,2008,excellent,4 cylinders,gas,76147,automatic,mid-size,coupe
+11995,2004,like new,6 cylinders,gas,87515,automatic,full-size,sedan
+6100,2009,good,4 cylinders,gas,89200,automatic,compact,hatchback
+1,2008,good,6 cylinders,gas,9000,automatic,mid-size,sedan
+14800,2015,excellent,4 cylinders,gas,79000,automatic,sub-compact,sedan
+11999,2010,excellent,4 cylinders,gas,94067,automatic,mid-size,hatchback
+10995,2015,like new,4 cylinders,gas,79000,automatic,mid-size,hatchback
+8500,2015,excellent,4 cylinders,gas,80000,automatic,full-size,sedan
+1200,2005,fair,6 cylinders,gas,1,automatic,compact,sedan
+9495,2013,excellent,4 cylinders,gas,99517,automatic,mid-size,sedan
+13999,2013,excellent,6 cylinders,gas,69066,automatic,full-size,sedan
+15977,2016,excellent,4 cylinders,gas,57555,automatic,compact,sedan
+6000,2016,good,4 cylinders,gas,64142,automatic,compact,hatchback
+7985,2008,excellent,6 cylinders,gas,76918,automatic,full-size,sedan
+3950,2006,excellent,6 cylinders,gas,99665,automatic,full-size,sedan
+15450,2014,excellent,4 cylinders,gas,90000,automatic,mid-size,sedan
+12700,2014,excellent,4 cylinders,gas,88095,automatic,mid-size,sedan
+24500,2015,excellent,4 cylinders,gas,43000,automatic,full-size,sedan
+7000,2014,excellent,4 cylinders,gas,90000,manual,compact,wagon
+8488,2006,excellent,4 cylinders,gas,66920,automatic,compact,wagon
+16900,2015,excellent,6 cylinders,gas,86206,automatic,mid-size,coupe
+5000,2007,good,4 cylinders,gas,77000,automatic,sub-compact,hatchback
+9995,2015,like new,6 cylinders,gas,91039,automatic,mid-size,sedan
+17000,2019,excellent,4 cylinders,gas,34075,automatic,compact,sedan
+15000,2017,like new,4 cylinders,gas,35645,automatic,compact,sedan
+8500,2012,excellent,4 cylinders,gas,91000,automatic,mid-size,sedan
+19995,2018,like new,4 cylinders,gas,43000,manual,compact,hatchback
+26990,2018,excellent,6 cylinders,gas,33000,automatic,mid-size,sedan
+6500,2015,good,4 cylinders,gas,46340,automatic,full-size,sedan
+9900,2012,good,6 cylinders,gas,80500,automatic,full-size,sedan
+8900,2013,good,4 cylinders,gas,35000,automatic,full-size,sedan
+7450,2006,excellent,4 cylinders,gas,79670,automatic,full-size,sedan
+17549,2014,good,6 cylinders,gas,61824,automatic,mid-size,coupe
+12500,2015,excellent,4 cylinders,gas,73000,automatic,compact,wagon
+10500,2013,good,4 cylinders,diesel,89000,automatic,mid-size,wagon
+14900,2016,new,4 cylinders,gas,55000,automatic,full-size,sedan
+13995,2016,excellent,4 cylinders,gas,54082,automatic,mid-size,sedan
+10300,2015,excellent,4 cylinders,gas,68770,automatic,full-size,sedan
+3000,2018,like new,4 cylinders,gas,19229,automatic,compact,sedan
+11500,2013,excellent,4 cylinders,gas,43296,automatic,mid-size,sedan
+7999,2018,excellent,4 cylinders,gas,37000,automatic,compact,sedan
+8295,2008,excellent,4 cylinders,gas,81060,automatic,mid-size,wagon
+11000,2015,good,4 cylinders,gas,98000,automatic,full-size,sedan
+13900,2015,excellent,4 cylinders,gas,80000,automatic,mid-size,sedan
+1395,2009,excellent,4 cylinders,gas,13600,automatic,compact,sedan
+7995,2012,excellent,4 cylinders,gas,99681,automatic,mid-size,sedan
+9400,2011,excellent,4 cylinders,gas,73000,automatic,mid-size,hatchback
+5900,2010,good,4 cylinders,gas,96504,automatic,mid-size,sedan
+10300,2011,excellent,4 cylinders,gas,57800,automatic,mid-size,coupe
+10991,2012,excellent,4 cylinders,gas,65000,automatic,full-size,sedan
+10995,2012,excellent,6 cylinders,gas,95980,automatic,mid-size,sedan
+10500,2011,excellent,6 cylinders,gas,56925,automatic,full-size,sedan
+11995,2015,good,6 cylinders,gas,89011,automatic,mid-size,sedan
+8500,2011,excellent,4 cylinders,gas,90893,manual,compact,coupe
+9999,2014,excellent,4 cylinders,gas,84449,automatic,compact,wagon
+4000,2015,like new,6 cylinders,gas,82270,automatic,mid-size,wagon
+6995,2011,excellent,6 cylinders,gas,85000,automatic,full-size,sedan
+14500,2015,excellent,4 cylinders,gas,82300,automatic,mid-size,sedan
+14995,2015,good,4 cylinders,gas,54030,automatic,mid-size,coupe
+6950,2014,excellent,4 cylinders,gas,79000,automatic,compact,sedan
+13900,2016,like new,4 cylinders,gas,70587,automatic,full-size,sedan
+9988,2012,excellent,4 cylinders,gas,92000,automatic,compact,wagon
+13800,2018,like new,4 cylinders,gas,75769,automatic,mid-size,sedan
+5800,2013,excellent,4 cylinders,gas,99200,automatic,full-size,sedan
+6950,2012,like new,4 cylinders,gas,70199,automatic,compact,sedan
+28900,2016,like new,6 cylinders,gas,32500,automatic,full-size,coupe
+8900,2011,excellent,6 cylinders,gas,61259,automatic,compact,sedan
+12900,2017,excellent,4 cylinders,gas,43000,automatic,full-size,sedan
+18000,2013,excellent,6 cylinders,gas,79330,automatic,full-size,sedan
+8500,2017,like new,4 cylinders,gas,56000,automatic,mid-size,sedan
+15995,2018,excellent,6 cylinders,gas,30013,automatic,full-size,sedan
+31995,2019,excellent,4 cylinders,gas,5612,manual,mid-size,sedan
+14995,2017,good,4 cylinders,gas,12919,automatic,mid-size,sedan
+5495,2010,excellent,4 cylinders,gas,69950,automatic,mid-size,sedan
+24900,2018,excellent,4 cylinders,gas,33929,automatic,compact,wagon
+7495,2014,good,4 cylinders,gas,74707,automatic,mid-size,sedan
+3500,2003,fair,6 cylinders,gas,80000,automatic,full-size,coupe
+32500,2017,like new,4 cylinders,gas,48600,automatic,mid-size,sedan
+11999,2014,excellent,4 cylinders,gas,74696,automatic,mid-size,sedan
+23000,2015,excellent,4 cylinders,gas,81000,manual,mid-size,sedan
+7990,2015,excellent,4 cylinders,gas,55757,automatic,full-size,sedan
+16900,2013,excellent,6 cylinders,gas,48000,automatic,compact,coupe
+13990,2020,like new,4 cylinders,gas,983,automatic,mid-size,sedan
+15995,2018,excellent,4 cylinders,gas,97802,automatic,mid-size,sedan
+6500,2010,excellent,4 cylinders,gas,82000,manual,compact,coupe
+12900,2015,excellent,4 cylinders,gas,84618,automatic,full-size,sedan
+12500,2015,like new,4 cylinders,gas,52000,automatic,full-size,sedan
+8500,2014,excellent,4 cylinders,gas,96826,automatic,mid-size,sedan
+7999,2012,good,4 cylinders,gas,57434,automatic,compact,sedan
+8950,2009,good,6 cylinders,gas,69000,automatic,mid-size,sedan
+25389,2018,excellent,6 cylinders,gas,24456,automatic,full-size,sedan
+11999,2018,excellent,4 cylinders,gas,26000,automatic,compact,hatchback
+5250,2010,excellent,4 cylinders,gas,86000,automatic,compact,hatchback
+14995,2017,excellent,4 cylinders,gas,80500,automatic,full-size,sedan
+6995,2014,excellent,4 cylinders,gas,82725,automatic,compact,sedan
+13888,2018,like new,4 cylinders,gas,59302,automatic,mid-size,sedan
+10995,2016,excellent,4 cylinders,gas,95805,automatic,compact,sedan
+14491,2014,excellent,4 cylinders,gas,46104,automatic,mid-size,sedan
+8995,2017,excellent,4 cylinders,gas,37000,automatic,compact,sedan
+9995,2008,excellent,6 cylinders,gas,92556,automatic,compact,sedan
+7995,2013,good,4 cylinders,gas,54359,automatic,sub-compact,sedan
+12900,2013,excellent,6 cylinders,gas,48000,automatic,mid-size,sedan
+5988,2010,excellent,4 cylinders,gas,96196,automatic,sub-compact,sedan
+18999,2008,excellent,6 cylinders,gas,86500,manual,mid-size,wagon
+14350,2014,like new,6 cylinders,gas,33881,automatic,full-size,sedan
+12995,2011,excellent,4 cylinders,gas,69000,automatic,mid-size,hatchback
+11500,2014,excellent,4 cylinders,gas,92448,automatic,mid-size,sedan
+7500,2014,good,4 cylinders,gas,95629,automatic,mid-size,sedan
+10500,2008,like new,6 cylinders,gas,18369,automatic,mid-size,sedan
+5800,2011,excellent,4 cylinders,gas,90703,automatic,sub-compact,hatchback
+18000,2015,excellent,4 cylinders,gas,58000,automatic,full-size,sedan
+199,2016,like new,4 cylinders,gas,55120,automatic,compact,sedan
+3500,2002,good,4 cylinders,gas,43291,automatic,compact,hatchback
+7999,2008,like new,6 cylinders,gas,26392,automatic,mid-size,sedan
+14000,2014,excellent,4 cylinders,gas,60100,automatic,full-size,sedan
+5950,2012,excellent,4 cylinders,gas,89796,automatic,mid-size,sedan
+9200,2016,excellent,4 cylinders,gas,82395,automatic,full-size,sedan
+20988,2018,like new,4 cylinders,gas,20000,automatic,full-size,sedan
+33995,2017,excellent,4 cylinders,gas,21748,automatic,sub-compact,coupe
+1,2014,excellent,4 cylinders,gas,77813,automatic,mid-size,coupe
+16900,2018,excellent,4 cylinders,gas,34788,automatic,compact,sedan
+10495,2015,excellent,4 cylinders,gas,90000,automatic,compact,sedan
+1500,2018,like new,4 cylinders,gas,35222,automatic,full-size,sedan
+15500,2019,like new,4 cylinders,gas,38999,automatic,mid-size,sedan
+14995,2016,excellent,4 cylinders,gas,67000,automatic,compact,sedan
+8200,2013,good,4 cylinders,gas,89545,automatic,full-size,sedan
+14700,2014,excellent,4 cylinders,gas,47600,automatic,full-size,sedan
+13500,2014,like new,4 cylinders,gas,54988,automatic,mid-size,sedan
+18999,2014,excellent,6 cylinders,gas,58996,automatic,full-size,sedan
+7999,2011,like new,6 cylinders,gas,98226,automatic,full-size,sedan
+13997,2007,excellent,6 cylinders,gas,71934,automatic,mid-size,sedan
+26000,2016,excellent,4 cylinders,gas,60000,automatic,compact,coupe
+24800,2017,excellent,4 cylinders,gas,32341,automatic,mid-size,hatchback
+12500,2013,good,6 cylinders,gas,82000,automatic,full-size,sedan
+10200,2016,excellent,4 cylinders,gas,67000,automatic,full-size,sedan
+7900,2014,excellent,4 cylinders,gas,68702,automatic,compact,hatchback
+12995,2015,excellent,4 cylinders,gas,87818,automatic,full-size,sedan
+9499,2016,excellent,4 cylinders,gas,76600,automatic,compact,sedan
+7499,2010,good,6 cylinders,gas,118,automatic,compact,sedan
+14988,2015,good,4 cylinders,gas,85005,automatic,compact,sedan
+8000,2015,good,4 cylinders,gas,67600,automatic,compact,sedan
+6600,2015,excellent,4 cylinders,gas,29042,manual,compact,sedan
+15000,2013,excellent,6 cylinders,gas,75000,automatic,mid-size,sedan
+9890,2014,excellent,4 cylinders,gas,81299,automatic,mid-size,sedan
+14995,2018,excellent,4 cylinders,gas,80076,automatic,mid-size,sedan
+12250,2014,excellent,4 cylinders,gas,92500,automatic,full-size,sedan
+10499,2014,excellent,6 cylinders,gas,83000,automatic,full-size,sedan
+12990,2013,excellent,4 cylinders,gas,91603,automatic,mid-size,sedan
+8900,2018,excellent,4 cylinders,gas,50363,automatic,compact,sedan
+14000,2013,excellent,6 cylinders,gas,85960,automatic,mid-size,coupe
+4995,2009,excellent,4 cylinders,gas,164,automatic,mid-size,sedan
+9450,2014,excellent,4 cylinders,gas,54345,automatic,full-size,hatchback
+11750,2016,good,4 cylinders,gas,52050,automatic,full-size,sedan
+7800,2016,like new,4 cylinders,gas,92000,automatic,compact,sedan
+13995,2015,excellent,4 cylinders,gas,66800,automatic,mid-size,sedan
+12495,2015,like new,4 cylinders,gas,56869,automatic,mid-size,sedan
+21995,2017,excellent,4 cylinders,gas,6832,automatic,full-size,sedan
+8800,2009,excellent,4 cylinders,gas,32379,automatic,mid-size,sedan
+15000,2012,excellent,4 cylinders,gas,56606,automatic,compact,coupe
+8500,2011,excellent,4 cylinders,gas,70000,automatic,mid-size,sedan
+16500,2013,excellent,6 cylinders,gas,40000,automatic,full-size,sedan
+9999,2010,excellent,6 cylinders,gas,76000,automatic,compact,sedan
+7495,2009,good,6 cylinders,gas,92992,automatic,full-size,sedan
+5250,2002,excellent,6 cylinders,gas,83600,automatic,full-size,sedan
+3200,2009,fair,4 cylinders,gas,97800,manual,compact,hatchback
+13500,2018,like new,4 cylinders,gas,32000,automatic,compact,sedan
+3500,2007,like new,6 cylinders,gas,175,automatic,full-size,sedan
+6990,2010,excellent,6 cylinders,gas,63207,automatic,full-size,sedan
+9995,2012,excellent,4 cylinders,gas,77874,automatic,full-size,coupe
+4950,2008,excellent,4 cylinders,gas,74239,automatic,compact,sedan
+11990,2010,excellent,4 cylinders,gas,86995,manual,compact,hatchback
+1500,2015,like new,4 cylinders,gas,83000,manual,compact,sedan
+6500,2013,good,4 cylinders,gas,96500,automatic,full-size,sedan
+6999,2017,good,4 cylinders,gas,76000,automatic,compact,hatchback
+9995,2014,excellent,4 cylinders,gas,28472,automatic,compact,hatchback
+4200,2006,good,6 cylinders,gas,53000,automatic,full-size,sedan
+13500,2013,excellent,4 cylinders,gas,79177,automatic,mid-size,coupe
+3375,2003,good,6 cylinders,gas,90150,automatic,mid-size,sedan
+9990,2008,like new,6 cylinders,gas,79000,automatic,full-size,sedan
+7500,2017,like new,4 cylinders,gas,90564,automatic,mid-size,sedan
+9000,2007,good,6 cylinders,gas,95000,automatic,full-size,sedan
+6995,2013,excellent,4 cylinders,gas,84095,automatic,mid-size,sedan
+12500,2014,like new,4 cylinders,gas,61871,automatic,full-size,sedan
+7950,2015,excellent,4 cylinders,gas,73357,automatic,mid-size,sedan
+2000,2018,like new,6 cylinders,gas,34000,automatic,full-size,sedan
+6900,2011,excellent,4 cylinders,gas,35660,automatic,compact,hatchback
+5500,2007,good,6 cylinders,gas,90000,automatic,mid-size,sedan
+5795,2010,new,4 cylinders,gas,89000,automatic,mid-size,sedan
+14999,2015,excellent,6 cylinders,gas,63988,automatic,mid-size,coupe
+6500,2007,good,4 cylinders,gas,73500,automatic,mid-size,sedan
+17464,2017,excellent,4 cylinders,gas,31532,automatic,compact,sedan
+6800,2012,excellent,6 cylinders,gas,97000,automatic,full-size,sedan
+10995,2014,good,4 cylinders,gas,62278,automatic,mid-size,sedan
+18999,2013,excellent,6 cylinders,gas,60041,automatic,mid-size,sedan
+9995,2015,like new,6 cylinders,gas,91039,automatic,mid-size,sedan
+22995,2017,excellent,6 cylinders,gas,18322,automatic,full-size,sedan
+4500,2012,good,4 cylinders,gas,82000,manual,compact,hatchback
+10000,2016,good,4 cylinders,gas,90943,automatic,mid-size,sedan
+18995,2019,like new,4 cylinders,gas,21882,automatic,full-size,sedan
+12500,2015,excellent,4 cylinders,gas,73000,automatic,compact,wagon
+6900,2011,excellent,6 cylinders,gas,60000,automatic,full-size,sedan
+16999,2018,like new,4 cylinders,gas,22000,automatic,full-size,sedan
+8875,2012,excellent,4 cylinders,gas,98079,automatic,full-size,sedan
+12995,2016,excellent,4 cylinders,gas,89736,automatic,mid-size,sedan
+1500,2011,good,4 cylinders,gas,90000,automatic,mid-size,sedan
+13200,2014,good,4 cylinders,gas,49000,manual,mid-size,hatchback
+9495,2018,excellent,4 cylinders,gas,80119,automatic,full-size,sedan
+9300,2015,like new,4 cylinders,gas,61000,automatic,full-size,sedan
+5500,2012,excellent,4 cylinders,gas,75000,automatic,full-size,sedan
+9500,2015,excellent,4 cylinders,gas,91000,automatic,full-size,sedan
+12999,2015,like new,4 cylinders,gas,78500,automatic,mid-size,coupe
+13500,2018,like new,4 cylinders,gas,45000,automatic,compact,sedan
+17998,2013,excellent,6 cylinders,gas,97420,automatic,mid-size,sedan
+9999,2012,excellent,4 cylinders,gas,76706,automatic,mid-size,sedan
+6900,2015,excellent,4 cylinders,gas,67738,automatic,compact,sedan
+5850,2004,good,6 cylinders,gas,94500,automatic,compact,sedan
+6200,2006,excellent,6 cylinders,gas,86000,automatic,mid-size,sedan
+12475,2016,excellent,4 cylinders,gas,23010,automatic,mid-size,sedan
+15995,2018,excellent,4 cylinders,gas,48827,automatic,mid-size,sedan
+14800,2015,excellent,4 cylinders,gas,74000,manual,mid-size,hatchback
+21900,2018,like new,6 cylinders,gas,44569,automatic,full-size,sedan
+13000,2011,excellent,4 cylinders,gas,85000,manual,compact,hatchback
+5995,2013,good,4 cylinders,gas,86955,automatic,compact,hatchback
+13495,2018,excellent,4 cylinders,gas,21404,automatic,compact,sedan
+8250,2013,like new,4 cylinders,gas,80000,automatic,full-size,coupe
+17995,2020,excellent,4 cylinders,gas,12980,automatic,mid-size,sedan
+14722,2017,excellent,4 cylinders,gas,37105,manual,mid-size,sedan
+34500,2018,excellent,6 cylinders,gas,32000,automatic,full-size,sedan
+5495,2007,good,4 cylinders,gas,68139,automatic,mid-size,wagon
+7000,2013,excellent,4 cylinders,gas,92000,manual,compact,hatchback
+5995,2013,good,4 cylinders,gas,77921,manual,compact,sedan
+7935,2014,excellent,4 cylinders,gas,69212,manual,compact,sedan
+13220,2015,excellent,4 cylinders,gas,68817,automatic,mid-size,sedan
+21250,2017,excellent,4 cylinders,gas,64900,manual,mid-size,sedan
+1500,2015,like new,4 cylinders,gas,72009,automatic,mid-size,sedan
+15800,2018,excellent,4 cylinders,gas,19000,automatic,full-size,sedan
+190,2015,excellent,4 cylinders,gas,86000,automatic,full-size,sedan
+5995,2006,excellent,4 cylinders,gas,95000,automatic,mid-size,sedan
+21995,2017,excellent,4 cylinders,gas,6832,automatic,full-size,sedan
+10981,2015,excellent,4 cylinders,gas,56000,automatic,mid-size,sedan
+13500,2013,excellent,4 cylinders,diesel,41000,automatic,mid-size,sedan
+5899,2014,excellent,4 cylinders,gas,86104,manual,mid-size,hatchback
+7350,2013,excellent,4 cylinders,gas,99319,automatic,mid-size,sedan
+24995,2015,excellent,4 cylinders,gas,59645,automatic,mid-size,sedan
+17000,2018,like new,4 cylinders,gas,14000,automatic,mid-size,sedan
+24995,2020,excellent,4 cylinders,gas,4510,automatic,mid-size,sedan
+26995,2016,excellent,4 cylinders,gas,12780,automatic,mid-size,sedan
+7500,2011,good,4 cylinders,gas,93000,automatic,mid-size,sedan
+5995,2008,excellent,6 cylinders,gas,69625,automatic,mid-size,sedan
+14873,2017,excellent,4 cylinders,gas,24686,automatic,mid-size,hatchback
+4995,2014,good,4 cylinders,gas,95953,automatic,mid-size,sedan
+15495,2018,excellent,4 cylinders,gas,27317,automatic,compact,wagon
+20000,2017,like new,4 cylinders,gas,52000,manual,mid-size,hatchback
+13500,2014,like new,4 cylinders,gas,54988,automatic,mid-size,sedan
+1800,2012,excellent,4 cylinders,gas,1,automatic,mid-size,sedan
+16000,2013,like new,4 cylinders,gas,36029,automatic,mid-size,sedan
+17995,2015,like new,6 cylinders,gas,75369,automatic,full-size,sedan
+25500,2014,excellent,6 cylinders,gas,29500,automatic,mid-size,coupe
+5995,2012,good,4 cylinders,gas,75182,manual,sub-compact,hatchback
+10000,2013,like new,4 cylinders,gas,65500,automatic,mid-size,sedan
+13950,2021,new,4 cylinders,gas,3000,automatic,compact,hatchback
+9000,2018,excellent,4 cylinders,gas,35000,automatic,full-size,sedan
+7400,2015,good,4 cylinders,gas,82965,manual,mid-size,hatchback
+9998,2013,good,4 cylinders,gas,95744,automatic,mid-size,sedan
+17200,2016,excellent,4 cylinders,gas,21000,manual,mid-size,hatchback
+8950,2013,like new,4 cylinders,gas,66000,automatic,compact,sedan
+10995,2010,excellent,4 cylinders,gas,56286,automatic,mid-size,sedan
+17900,2016,excellent,4 cylinders,gas,46100,automatic,full-size,sedan
+1,2015,new,4 cylinders,gas,1100,manual,compact,sedan
+29500,2018,excellent,6 cylinders,gas,16600,automatic,full-size,sedan
+21500,2018,excellent,4 cylinders,gas,40800,automatic,mid-size,coupe
+19000,2016,excellent,6 cylinders,gas,40373,automatic,mid-size,sedan
+4990,2003,excellent,6 cylinders,gas,62371,automatic,full-size,sedan
+12995,2015,excellent,4 cylinders,gas,74388,automatic,full-size,sedan
+6998,2014,like new,4 cylinders,gas,99896,automatic,full-size,sedan
+6095,2011,good,6 cylinders,gas,83500,automatic,full-size,sedan
+6900,2013,good,4 cylinders,gas,62827,automatic,compact,hatchback
+10500,2012,excellent,4 cylinders,gas,98100,automatic,compact,hatchback
+7700,2012,excellent,4 cylinders,gas,83600,automatic,full-size,sedan
+13500,2017,excellent,4 cylinders,gas,28000,manual,mid-size,sedan
+10999,2014,excellent,4 cylinders,gas,82739,automatic,mid-size,sedan
+7990,2013,excellent,4 cylinders,gas,59000,automatic,compact,hatchback
+6495,2012,excellent,4 cylinders,gas,73000,automatic,compact,sedan
+5000,2008,good,4 cylinders,gas,87841,automatic,compact,hatchback
+15995,2015,good,4 cylinders,gas,75290,automatic,full-size,sedan
+10991,2012,excellent,4 cylinders,gas,65000,automatic,full-size,sedan
+20900,2015,excellent,6 cylinders,gas,33780,automatic,full-size,sedan
+19700,2020,excellent,4 cylinders,gas,13500,automatic,compact,hatchback
+4000,2010,good,6 cylinders,gas,88559,manual,full-size,sedan
+12900,2015,excellent,4 cylinders,gas,54950,automatic,mid-size,sedan
+6500,2012,excellent,4 cylinders,gas,53000,automatic,compact,coupe
+6900,2014,excellent,4 cylinders,gas,76766,manual,mid-size,sedan
+12500,2014,excellent,4 cylinders,gas,72500,automatic,full-size,sedan
+13750,2014,excellent,4 cylinders,gas,46000,automatic,compact,sedan
+20695,2017,like new,4 cylinders,gas,41969,automatic,mid-size,sedan
+11999,2020,excellent,4 cylinders,gas,4187,automatic,sub-compact,sedan
+10100,2017,like new,4 cylinders,gas,76500,automatic,mid-size,sedan
+11999,2015,good,4 cylinders,gas,81000,automatic,full-size,sedan
+9999,2014,excellent,4 cylinders,gas,84449,automatic,compact,wagon
+14000,2010,like new,4 cylinders,gas,30958,automatic,full-size,sedan
+3995,2004,like new,6 cylinders,gas,85000,automatic,mid-size,sedan
+7490,2009,excellent,6 cylinders,gas,83000,automatic,full-size,sedan
+7200,2007,good,6 cylinders,gas,49480,automatic,full-size,sedan
+9495,2013,good,4 cylinders,gas,80421,manual,compact,sedan
+8795,2010,like new,6 cylinders,gas,95650,automatic,full-size,sedan
+15950,2011,excellent,6 cylinders,gas,64188,automatic,mid-size,sedan
+19950,2017,excellent,4 cylinders,gas,43000,automatic,compact,sedan
+6750,2013,good,4 cylinders,gas,90000,automatic,full-size,sedan
+8995,2014,excellent,4 cylinders,gas,99661,automatic,compact,sedan
+9900,2017,excellent,4 cylinders,gas,26850,automatic,compact,sedan
+35000,2019,like new,4 cylinders,gas,8900,automatic,mid-size,sedan
+23997,2015,excellent,6 cylinders,gas,75555,automatic,mid-size,sedan
+5500,2004,excellent,6 cylinders,gas,66000,automatic,full-size,sedan
+7250,2009,excellent,6 cylinders,gas,97500,automatic,mid-size,sedan
+11950,2008,excellent,4 cylinders,gas,53288,automatic,full-size,sedan
+7450,2013,excellent,4 cylinders,gas,96222,automatic,mid-size,sedan
+13995,2015,excellent,4 cylinders,gas,66800,automatic,mid-size,sedan
+25000,2012,excellent,6 cylinders,gas,90000,automatic,full-size,coupe
+6500,2012,excellent,4 cylinders,gas,78000,manual,compact,sedan
+14500,2013,excellent,4 cylinders,gas,16853,automatic,mid-size,sedan
+10500,2015,excellent,4 cylinders,gas,52000,manual,compact,hatchback
+13779,2017,fair,4 cylinders,gas,62565,automatic,mid-size,sedan
+15500,2014,like new,4 cylinders,gas,52000,automatic,mid-size,sedan
+8250,2015,excellent,4 cylinders,gas,75069,automatic,compact,sedan
+7400,2014,excellent,4 cylinders,gas,78075,manual,sub-compact,hatchback
+7400,2014,excellent,4 cylinders,gas,92902,automatic,mid-size,sedan
+12999,2015,excellent,6 cylinders,gas,60000,automatic,full-size,coupe
+15900,2017,excellent,4 cylinders,gas,43000,manual,compact,hatchback
+16000,2016,excellent,4 cylinders,gas,28300,automatic,compact,sedan
+10495,2015,excellent,4 cylinders,gas,36234,automatic,compact,hatchback
+8800,2014,like new,4 cylinders,gas,11800,automatic,sub-compact,sedan
+6995,2013,excellent,4 cylinders,gas,93000,automatic,mid-size,sedan
+24995,2017,like new,6 cylinders,gas,45318,automatic,mid-size,coupe
+13999,2016,like new,4 cylinders,gas,83400,automatic,full-size,hatchback
+15899,2017,like new,4 cylinders,gas,58000,automatic,full-size,sedan
+10999,2015,excellent,4 cylinders,gas,96823,automatic,mid-size,sedan
+12000,2016,fair,4 cylinders,gas,90000,automatic,compact,coupe
+6900,2009,excellent,4 cylinders,gas,89000,automatic,compact,sedan
+18999,2014,excellent,4 cylinders,gas,34269,automatic,sub-compact,sedan
+9800,2014,excellent,4 cylinders,gas,92707,manual,mid-size,coupe
+323,2016,new,6 cylinders,gas,56000,automatic,full-size,sedan
+17999,2010,excellent,6 cylinders,gas,43300,automatic,full-size,sedan
+12599,2014,excellent,4 cylinders,gas,61393,automatic,full-size,sedan
+14995,2018,like new,4 cylinders,gas,38781,automatic,compact,sedan
+16324,2013,like new,6 cylinders,gas,74542,automatic,full-size,sedan
+15985,2019,excellent,4 cylinders,gas,5450,automatic,mid-size,hatchback
+14700,2016,like new,4 cylinders,gas,9533,automatic,full-size,sedan
+7490,2008,excellent,4 cylinders,gas,87000,automatic,mid-size,sedan
+6000,2014,excellent,4 cylinders,gas,99000,automatic,mid-size,sedan
+9000,2013,good,6 cylinders,gas,91000,automatic,compact,sedan
+17980,2016,good,6 cylinders,gas,69450,automatic,mid-size,coupe
+12400,2017,like new,4 cylinders,gas,27674,automatic,compact,sedan
+7500,2008,excellent,6 cylinders,gas,42000,automatic,full-size,sedan
+12750,2013,like new,4 cylinders,diesel,34200,automatic,mid-size,sedan
+31000,2018,like new,4 cylinders,gas,37943,automatic,mid-size,sedan
+11995,2016,like new,4 cylinders,gas,92936,automatic,full-size,sedan
+12700,2016,excellent,4 cylinders,gas,78570,manual,mid-size,wagon
+17999,2016,good,4 cylinders,gas,80000,manual,mid-size,sedan
+5950,2007,good,4 cylinders,gas,72000,manual,compact,hatchback
+8300,2015,good,4 cylinders,gas,94000,automatic,full-size,sedan
+7950,2011,excellent,4 cylinders,gas,77000,automatic,mid-size,sedan
+7000,2010,good,4 cylinders,gas,81000,automatic,full-size,sedan
+13495,2017,like new,4 cylinders,gas,44165,automatic,mid-size,sedan
+8900,2012,excellent,4 cylinders,gas,65720,automatic,full-size,sedan
+199,2010,excellent,4 cylinders,gas,83665,automatic,mid-size,wagon
+11900,2014,excellent,4 cylinders,gas,46926,automatic,mid-size,coupe
+32995,2017,like new,4 cylinders,gas,89011,manual,mid-size,sedan
+16777,2020,like new,4 cylinders,gas,32575,automatic,mid-size,sedan
+4995,2006,excellent,4 cylinders,gas,93840,automatic,sub-compact,wagon
+7500,2014,excellent,4 cylinders,gas,62000,automatic,mid-size,sedan
+34995,2016,excellent,6 cylinders,gas,72475,automatic,mid-size,sedan
+14988,2014,like new,4 cylinders,gas,50000,automatic,full-size,sedan
+7800,2015,good,4 cylinders,gas,59328,automatic,mid-size,sedan
+10500,2009,excellent,6 cylinders,gas,46000,automatic,full-size,sedan
+9495,2009,excellent,6 cylinders,gas,85000,automatic,mid-size,coupe
+13490,2012,excellent,6 cylinders,gas,62832,automatic,mid-size,sedan
+9995,2013,good,4 cylinders,gas,96831,automatic,mid-size,sedan
+5350,2009,good,4 cylinders,gas,92000,automatic,mid-size,sedan
+6800,2009,excellent,6 cylinders,gas,85000,automatic,mid-size,sedan
+7995,2007,excellent,4 cylinders,gas,44135,automatic,mid-size,sedan
+8295,2016,excellent,4 cylinders,gas,52770,automatic,sub-compact,hatchback
+9995,2014,excellent,4 cylinders,gas,65926,automatic,compact,sedan
+15000,2015,good,4 cylinders,gas,28000,automatic,full-size,sedan
+9988,2016,good,4 cylinders,gas,81679,automatic,compact,sedan
+13990,2013,excellent,4 cylinders,gas,70000,manual,compact,coupe
+4995,2009,good,4 cylinders,gas,93476,manual,compact,sedan
+12995,2016,like new,4 cylinders,gas,61127,automatic,compact,sedan
+19000,2016,excellent,4 cylinders,gas,39960,automatic,mid-size,sedan
+10370,2013,excellent,4 cylinders,gas,86337,automatic,mid-size,sedan
+5998,2014,like new,4 cylinders,gas,89687,automatic,full-size,sedan
+8195,2007,excellent,6 cylinders,gas,74881,automatic,full-size,sedan
+9995,2009,excellent,4 cylinders,gas,76000,automatic,mid-size,sedan
+11950,2017,excellent,4 cylinders,gas,60000,automatic,compact,sedan
+12750,2016,like new,4 cylinders,gas,81891,automatic,mid-size,hatchback
+11490,2007,excellent,6 cylinders,gas,85179,automatic,compact,wagon
+9250,2006,excellent,4 cylinders,gas,55517,automatic,compact,hatchback
+9991,2010,excellent,4 cylinders,gas,68000,automatic,full-size,sedan
+18000,2015,good,6 cylinders,gas,60000,automatic,full-size,sedan
+8600,2017,excellent,4 cylinders,gas,54526,automatic,compact,sedan
+2400,2008,good,6 cylinders,gas,89000,automatic,mid-size,coupe
+12399,2016,excellent,4 cylinders,gas,53000,automatic,mid-size,hatchback
+13495,2008,excellent,6 cylinders,gas,78122,automatic,compact,sedan
+5495,2006,excellent,4 cylinders,gas,78000,automatic,compact,wagon
+999,2010,excellent,6 cylinders,gas,44724,automatic,full-size,sedan
+15990,2017,good,4 cylinders,gas,90989,automatic,full-size,sedan
+11950,2015,excellent,4 cylinders,gas,58000,automatic,full-size,sedan
+8499,2017,excellent,4 cylinders,gas,63000,automatic,compact,sedan
+27000,2018,like new,4 cylinders,gas,22000,automatic,mid-size,sedan
+8900,2007,excellent,4 cylinders,gas,70500,manual,compact,hatchback
+5500,2005,good,4 cylinders,gas,78500,automatic,mid-size,hatchback
+18295,2018,excellent,4 cylinders,gas,17760,automatic,mid-size,hatchback
+6500,2015,like new,4 cylinders,gas,71170,manual,compact,sedan
+1300,2007,fair,4 cylinders,gas,85695,automatic,compact,coupe
+8995,2012,excellent,4 cylinders,gas,75142,manual,compact,coupe
+13000,2014,good,4 cylinders,gas,38000,automatic,mid-size,sedan
+8945,2008,excellent,4 cylinders,gas,68781,automatic,mid-size,sedan
+7900,2015,good,4 cylinders,gas,78000,automatic,mid-size,sedan
+16875,2017,excellent,4 cylinders,gas,54914,automatic,mid-size,sedan
+12400,2017,like new,4 cylinders,gas,27674,automatic,compact,sedan
+4800,2009,excellent,4 cylinders,gas,68465,automatic,compact,sedan
+13495,2017,like new,4 cylinders,gas,44165,automatic,mid-size,sedan
+18000,2016,excellent,4 cylinders,gas,14016,automatic,mid-size,hatchback
+14995,2017,like new,4 cylinders,gas,33371,automatic,mid-size,sedan
+17998,2013,excellent,6 cylinders,gas,97420,automatic,mid-size,sedan
+3999,2010,excellent,4 cylinders,gas,98080,automatic,compact,sedan
+23500,2016,excellent,4 cylinders,gas,29376,automatic,mid-size,sedan
+6995,2009,good,4 cylinders,gas,92496,automatic,mid-size,coupe
+8945,2008,excellent,4 cylinders,gas,68781,automatic,mid-size,sedan
+11500,2009,excellent,6 cylinders,gas,37000,automatic,mid-size,coupe
+22990,2019,like new,6 cylinders,gas,31433,automatic,full-size,sedan
+8000,2017,excellent,4 cylinders,gas,46000,automatic,compact,sedan
+27000,2018,excellent,4 cylinders,gas,49909,automatic,mid-size,sedan
+5970,2015,good,4 cylinders,gas,98110,automatic,sub-compact,hatchback
+10999,2014,excellent,4 cylinders,gas,82739,automatic,mid-size,sedan
+5000,2004,excellent,4 cylinders,gas,91000,manual,compact,coupe
+5000,2007,like new,4 cylinders,gas,65147,automatic,compact,sedan
+4850,2015,excellent,4 cylinders,gas,58000,automatic,compact,sedan
+1,2015,excellent,6 cylinders,gas,30499,automatic,compact,sedan
+6500,2004,good,4 cylinders,gas,57000,automatic,compact,sedan
+10990,2017,excellent,4 cylinders,gas,71000,automatic,mid-size,sedan
+8900,2013,like new,4 cylinders,gas,80500,automatic,mid-size,sedan
+12950,2015,good,6 cylinders,gas,94131,automatic,mid-size,sedan
+14995,2017,excellent,4 cylinders,gas,53560,automatic,full-size,sedan
+14500,2018,like new,4 cylinders,gas,62686,automatic,compact,hatchback
+13995,2016,like new,4 cylinders,gas,36920,manual,compact,sedan
+18995,2014,excellent,6 cylinders,gas,76720,automatic,full-size,coupe
+18999,2018,excellent,4 cylinders,gas,39474,automatic,compact,wagon
+8995,2008,good,6 cylinders,gas,76244,automatic,mid-size,sedan
+8950,2007,like new,6 cylinders,gas,77432,automatic,mid-size,sedan
+7995,2012,excellent,4 cylinders,gas,89000,automatic,full-size,sedan
+12500,2012,like new,4 cylinders,gas,65738,automatic,mid-size,hatchback
+6500,2008,excellent,6 cylinders,gas,57000,automatic,mid-size,sedan
+37777,2015,like new,6 cylinders,gas,12000,automatic,full-size,sedan
+12500,2008,good,6 cylinders,gas,50000,automatic,mid-size,sedan
+215,2017,excellent,4 cylinders,gas,98000,automatic,full-size,sedan
+7490,2009,excellent,6 cylinders,gas,83000,automatic,full-size,sedan
+14980,2014,excellent,6 cylinders,gas,98089,automatic,compact,coupe
+26900,2014,excellent,6 cylinders,gas,38000,automatic,mid-size,coupe
+5995,2013,good,4 cylinders,gas,93010,automatic,mid-size,sedan
+27500,2015,excellent,6 cylinders,gas,33000,automatic,compact,coupe
+4980,2003,like new,6 cylinders,gas,77650,automatic,mid-size,sedan
+12498,2009,excellent,6 cylinders,gas,56536,automatic,mid-size,sedan
+7995,2011,good,6 cylinders,gas,85000,automatic,full-size,sedan
+8500,2013,good,6 cylinders,gas,34700,automatic,full-size,sedan
+12000,2012,good,4 cylinders,gas,77000,automatic,compact,sedan
+10999,2014,excellent,4 cylinders,gas,87815,automatic,mid-size,sedan
+7200,2008,excellent,4 cylinders,gas,90000,automatic,compact,sedan
+20999,2015,like new,6 cylinders,gas,88000,automatic,full-size,sedan
+7490,2009,excellent,6 cylinders,gas,83000,automatic,full-size,sedan
+14000,2015,excellent,4 cylinders,gas,66800,automatic,full-size,sedan
+6900,2010,like new,4 cylinders,gas,86727,automatic,mid-size,wagon
+6500,2008,good,6 cylinders,gas,96526,automatic,full-size,sedan
+1600,2006,good,4 cylinders,gas,96000,automatic,full-size,sedan
+9986,2012,excellent,4 cylinders,gas,87241,automatic,compact,wagon
+13500,2015,good,4 cylinders,diesel,36500,automatic,full-size,sedan
+17300,2017,like new,4 cylinders,gas,54005,automatic,full-size,sedan
+3975,2005,good,6 cylinders,gas,99900,automatic,full-size,sedan
+7491,2012,like new,4 cylinders,gas,96031,automatic,full-size,sedan
+7400,2012,good,4 cylinders,gas,57434,automatic,compact,sedan
+31900,2015,excellent,6 cylinders,gas,32841,automatic,compact,coupe
+8495,2016,like new,4 cylinders,gas,97000,automatic,full-size,sedan
+23500,2015,excellent,4 cylinders,gas,37518,automatic,mid-size,sedan
+15999,2017,like new,4 cylinders,gas,24000,automatic,full-size,wagon
+8995,2013,excellent,6 cylinders,gas,81210,automatic,full-size,sedan
+12901,2013,good,6 cylinders,gas,66000,automatic,mid-size,wagon
+19900,2014,good,4 cylinders,gas,49317,automatic,compact,coupe
+4800,2011,good,4 cylinders,gas,87000,automatic,full-size,sedan
+11000,2011,excellent,6 cylinders,gas,82000,automatic,mid-size,coupe
+6800,2006,good,6 cylinders,gas,94500,manual,compact,coupe
+11500,2013,like new,4 cylinders,gas,85000,automatic,full-size,sedan
+11700,2012,excellent,4 cylinders,gas,81749,automatic,mid-size,hatchback
+7400,2014,excellent,4 cylinders,gas,92902,automatic,mid-size,sedan
+6000,2013,excellent,6 cylinders,gas,1,automatic,mid-size,sedan
+3500,2007,excellent,4 cylinders,gas,88094,automatic,mid-size,sedan
+10950,2016,good,4 cylinders,gas,72120,automatic,mid-size,sedan
+1,2015,excellent,6 cylinders,gas,74927,automatic,compact,wagon
+8888,2005,excellent,6 cylinders,gas,53320,automatic,mid-size,sedan
+18000,2012,excellent,4 cylinders,gas,55247,automatic,mid-size,hatchback
+15500,2007,excellent,6 cylinders,gas,50401,automatic,mid-size,sedan
+7000,2014,excellent,4 cylinders,gas,150,automatic,full-size,sedan
+13900,2013,excellent,4 cylinders,gas,89600,automatic,mid-size,sedan
+4500,2007,excellent,6 cylinders,gas,84000,automatic,full-size,sedan
+12498,2011,good,6 cylinders,gas,16188,automatic,full-size,sedan
+29500,2016,like new,6 cylinders,gas,43850,automatic,full-size,sedan
+9470,2016,good,4 cylinders,gas,45059,automatic,compact,sedan
+1,2013,excellent,4 cylinders,gas,72891,automatic,mid-size,sedan
+8500,2006,good,6 cylinders,gas,65100,automatic,full-size,sedan
+8990,2013,excellent,4 cylinders,gas,99767,manual,compact,sedan
+10500,2010,excellent,4 cylinders,gas,91047,automatic,compact,sedan
+1500,2001,good,4 cylinders,gas,58000,automatic,compact,sedan
+14995,2018,excellent,4 cylinders,gas,33653,automatic,mid-size,sedan
+10500,2015,like new,4 cylinders,gas,79500,automatic,mid-size,sedan
+6490,2011,excellent,6 cylinders,gas,84548,automatic,mid-size,sedan
+14490,2015,excellent,4 cylinders,gas,98621,automatic,compact,sedan
+32500,2017,excellent,4 cylinders,gas,39300,manual,compact,sedan
+19290,2017,excellent,4 cylinders,gas,53500,manual,full-size,sedan
+17500,2015,excellent,6 cylinders,gas,59000,automatic,full-size,sedan
+11999,2014,excellent,4 cylinders,gas,67218,automatic,mid-size,sedan
+199,2014,excellent,4 cylinders,gas,63212,automatic,mid-size,sedan
+23000,2016,like new,4 cylinders,gas,63000,manual,mid-size,sedan
+2800,2006,good,6 cylinders,gas,96200,automatic,compact,sedan
+32995,2017,like new,4 cylinders,gas,89011,manual,mid-size,sedan
+5800,2004,like new,4 cylinders,gas,90500,manual,compact,hatchback
+950,2013,good,4 cylinders,gas,91000,manual,mid-size,sedan
+9900,2014,good,4 cylinders,gas,76000,automatic,mid-size,sedan
+6488,2006,excellent,4 cylinders,gas,69238,automatic,compact,sedan
+12950,2014,excellent,4 cylinders,gas,71000,automatic,compact,sedan
+11495,2014,good,4 cylinders,gas,89386,automatic,mid-size,sedan
+7995,2014,excellent,4 cylinders,gas,98651,automatic,mid-size,sedan
+6990,2014,excellent,4 cylinders,gas,51000,manual,compact,hatchback
+9100,2011,good,6 cylinders,gas,94000,automatic,mid-size,sedan
+1000,2016,excellent,4 cylinders,gas,44000,automatic,compact,sedan
+11750,2012,excellent,4 cylinders,gas,65000,automatic,full-size,sedan
+8000,2008,excellent,6 cylinders,gas,95000,automatic,mid-size,sedan
+19000,2017,like new,4 cylinders,gas,21000,automatic,full-size,sedan
+17900,2015,like new,4 cylinders,gas,23145,automatic,sub-compact,sedan
+4000,2002,excellent,6 cylinders,gas,78000,automatic,full-size,wagon
+4500,2014,excellent,4 cylinders,gas,86132,automatic,mid-size,hatchback
+11500,2017,excellent,4 cylinders,gas,46000,automatic,full-size,sedan
+4500,2009,excellent,4 cylinders,gas,97000,automatic,compact,sedan
+35990,2017,like new,6 cylinders,gas,19970,automatic,full-size,sedan
+14995,2017,excellent,4 cylinders,gas,88104,automatic,full-size,sedan
+14300,2017,excellent,4 cylinders,gas,70120,automatic,compact,sedan
+19795,2011,fair,6 cylinders,diesel,94616,automatic,mid-size,sedan
+18888,2014,good,6 cylinders,gas,41262,automatic,mid-size,coupe
+7950,2015,good,4 cylinders,gas,65000,automatic,compact,wagon
+345,2017,like new,4 cylinders,gas,47634,automatic,full-size,sedan
+7950,2009,good,4 cylinders,gas,67000,automatic,mid-size,wagon
+8600,2018,like new,4 cylinders,gas,96489,automatic,compact,sedan
+4995,2002,like new,4 cylinders,gas,64000,automatic,mid-size,coupe
+3500,2009,excellent,6 cylinders,gas,166,automatic,full-size,sedan
+12850,2020,like new,4 cylinders,gas,29208,automatic,compact,sedan
+23900,2016,excellent,4 cylinders,gas,58896,automatic,full-size,sedan
+18500,2016,excellent,6 cylinders,gas,75000,automatic,mid-size,coupe
+19200,2015,like new,4 cylinders,gas,47000,automatic,mid-size,coupe
+11000,2012,like new,4 cylinders,gas,96900,automatic,compact,hatchback
+24995,2019,excellent,4 cylinders,gas,23605,automatic,full-size,sedan
+5000,2008,good,6 cylinders,gas,1153,manual,mid-size,coupe
+5900,2010,excellent,4 cylinders,gas,90000,automatic,mid-size,hatchback
+8000,2010,excellent,6 cylinders,gas,67861,automatic,full-size,sedan
+16995,2017,like new,4 cylinders,gas,49558,automatic,mid-size,sedan
+18000,2012,excellent,4 cylinders,gas,23893,automatic,sub-compact,hatchback
+27800,2018,like new,6 cylinders,gas,16920,automatic,full-size,sedan
+16000,2013,excellent,4 cylinders,gas,63000,manual,compact,coupe
+10900,2013,excellent,4 cylinders,gas,81801,automatic,full-size,sedan
+24900,2017,like new,4 cylinders,gas,33500,automatic,compact,hatchback
+18250,2018,like new,4 cylinders,gas,52000,automatic,full-size,sedan
+9900,2017,like new,4 cylinders,gas,62750,automatic,mid-size,sedan
+8300,2016,excellent,4 cylinders,gas,29000,automatic,mid-size,sedan
+33995,2020,like new,6 cylinders,gas,10969,automatic,mid-size,coupe
+6999,2014,good,4 cylinders,gas,75000,automatic,mid-size,hatchback
+9800,2009,excellent,6 cylinders,gas,95689,automatic,mid-size,sedan
+6500,2011,salvage,4 cylinders,gas,53000,automatic,compact,hatchback
+22995,2018,like new,4 cylinders,gas,10209,manual,compact,hatchback
+8945,2008,excellent,4 cylinders,gas,68781,automatic,mid-size,sedan
+10995,2009,good,6 cylinders,gas,92340,automatic,full-size,sedan
+6500,2006,excellent,6 cylinders,gas,95000,automatic,full-size,sedan
+8900,2013,excellent,4 cylinders,gas,58000,automatic,compact,sedan
+29700,2018,like new,6 cylinders,gas,16220,automatic,full-size,coupe
+14500,2014,like new,6 cylinders,gas,72400,automatic,full-size,sedan
+9995,2014,excellent,4 cylinders,gas,80000,automatic,mid-size,sedan
+12950,2014,excellent,4 cylinders,gas,57850,automatic,full-size,sedan
+10999,2014,excellent,4 cylinders,gas,68974,automatic,compact,sedan
+14700,2012,excellent,4 cylinders,gas,71102,automatic,full-size,sedan
+6500,2016,like new,4 cylinders,gas,33000,automatic,compact,hatchback
+17900,2017,like new,4 cylinders,gas,29000,automatic,mid-size,sedan
+13900,2017,like new,4 cylinders,gas,34779,automatic,mid-size,sedan
+17500,2018,like new,4 cylinders,gas,38000,automatic,mid-size,sedan
+19500,2017,good,4 cylinders,gas,71399,automatic,compact,sedan
+27000,2016,excellent,6 cylinders,gas,45074,automatic,mid-size,sedan
+11988,2015,excellent,4 cylinders,gas,47000,manual,mid-size,sedan
+20995,2018,like new,4 cylinders,gas,40876,automatic,mid-size,sedan
+4500,2009,excellent,4 cylinders,gas,89000,automatic,full-size,sedan
+9999,2014,excellent,4 cylinders,gas,92000,automatic,mid-size,sedan
+17995,2018,like new,4 cylinders,gas,37000,automatic,mid-size,sedan
+15990,2014,excellent,4 cylinders,gas,76756,automatic,full-size,hatchback
+8500,2011,good,4 cylinders,gas,74885,automatic,compact,coupe
+1500,2012,good,6 cylinders,gas,99971,automatic,full-size,sedan
+8995,2003,excellent,6 cylinders,gas,80065,automatic,full-size,wagon
+12000,2014,good,4 cylinders,gas,57650,automatic,full-size,sedan
+5500,2007,good,6 cylinders,gas,76000,automatic,mid-size,sedan
+4800,2014,excellent,4 cylinders,gas,86200,manual,compact,hatchback
+6200,2012,good,4 cylinders,gas,93000,automatic,mid-size,sedan
+11600,2016,excellent,4 cylinders,gas,52771,automatic,compact,sedan
+8500,2004,excellent,6 cylinders,gas,31100,automatic,compact,coupe
+13135,2015,excellent,4 cylinders,gas,30688,automatic,full-size,sedan
+22995,2019,excellent,4 cylinders,gas,21392,automatic,mid-size,sedan
+3500,2010,fair,4 cylinders,gas,99000,automatic,compact,sedan
+14500,2018,like new,4 cylinders,gas,21500,automatic,compact,hatchback
+100,2019,like new,4 cylinders,gas,35766,automatic,mid-size,sedan
+11995,2011,excellent,6 cylinders,gas,99390,automatic,full-size,sedan
+8900,2018,good,4 cylinders,gas,51473,automatic,mid-size,sedan
+17500,2015,excellent,4 cylinders,gas,45000,automatic,mid-size,sedan
+8400,2018,like new,4 cylinders,gas,46000,automatic,mid-size,sedan
+6000,2012,good,4 cylinders,gas,92000,automatic,mid-size,coupe
+6000,2006,excellent,4 cylinders,gas,94548,automatic,mid-size,coupe
+6200,2010,good,6 cylinders,gas,88643,automatic,full-size,sedan
+16995,2019,like new,4 cylinders,gas,21288,automatic,compact,sedan
+12500,2013,excellent,4 cylinders,gas,95101,manual,compact,sedan
+17995,2018,excellent,4 cylinders,gas,1000,automatic,compact,sedan
+4700,2002,good,4 cylinders,gas,76000,automatic,compact,wagon
+6900,2009,excellent,4 cylinders,gas,90000,automatic,mid-size,hatchback
+26998,2018,excellent,4 cylinders,gas,20000,automatic,full-size,sedan
+9600,2008,excellent,6 cylinders,gas,87450,automatic,full-size,wagon
+8999,2012,good,4 cylinders,gas,74460,automatic,compact,hatchback
+7995,2011,excellent,4 cylinders,gas,86564,manual,mid-size,sedan
+10500,2009,excellent,6 cylinders,gas,79000,automatic,compact,coupe
+18999,2018,like new,4 cylinders,gas,54000,automatic,compact,hatchback
+8888,2008,good,6 cylinders,gas,80000,automatic,mid-size,coupe
+10995,2011,excellent,4 cylinders,gas,73164,automatic,full-size,sedan
+22000,2019,excellent,4 cylinders,gas,12000,automatic,compact,sedan
+5500,2012,good,4 cylinders,gas,62000,automatic,compact,sedan
+6200,2014,excellent,6 cylinders,gas,80000,automatic,mid-size,sedan
+6999,2015,good,4 cylinders,gas,79000,automatic,mid-size,sedan
+4600,2011,good,4 cylinders,gas,53683,automatic,mid-size,sedan
+8100,2013,excellent,4 cylinders,diesel,96888,automatic,compact,hatchback
+23995,2019,like new,6 cylinders,gas,26959,automatic,mid-size,sedan
+9750,2012,good,6 cylinders,gas,99721,automatic,full-size,sedan
+7995,2005,excellent,6 cylinders,gas,50845,automatic,compact,sedan
+14999,2012,good,6 cylinders,gas,93,automatic,mid-size,sedan
+7000,2008,excellent,6 cylinders,gas,66000,automatic,mid-size,sedan
+9900,2017,excellent,6 cylinders,gas,91680,automatic,mid-size,sedan
+8500,2009,excellent,4 cylinders,gas,64000,automatic,mid-size,sedan
+10548,2016,excellent,4 cylinders,gas,84893,automatic,mid-size,sedan
+14000,2017,like new,6 cylinders,gas,60000,automatic,mid-size,sedan
+10350,2016,excellent,4 cylinders,gas,99868,automatic,compact,sedan
+6000,2012,good,4 cylinders,gas,85000,automatic,mid-size,sedan
+27500,2020,like new,4 cylinders,gas,10400,automatic,full-size,sedan
+12995,2013,excellent,6 cylinders,gas,96000,automatic,mid-size,sedan
+8500,2008,like new,4 cylinders,gas,92000,manual,mid-size,sedan
+3500,2007,good,4 cylinders,gas,93922,automatic,compact,wagon
+19000,2013,excellent,4 cylinders,gas,48000,automatic,compact,sedan
+3495,2006,good,4 cylinders,gas,72686,automatic,compact,coupe
+8100,2013,excellent,4 cylinders,diesel,96888,automatic,compact,hatchback
+14750,2013,excellent,4 cylinders,diesel,29500,automatic,mid-size,sedan
+12990,2013,excellent,4 cylinders,gas,91603,automatic,mid-size,sedan
+10500,2012,like new,4 cylinders,gas,32542,automatic,compact,hatchback
+4990,2009,excellent,4 cylinders,gas,87000,automatic,compact,sedan
+9995,2016,excellent,4 cylinders,gas,87000,automatic,mid-size,sedan
+18995,2015,excellent,4 cylinders,gas,82224,manual,compact,coupe
+9200,2011,excellent,4 cylinders,gas,95000,automatic,mid-size,sedan
+6800,2015,good,4 cylinders,gas,91000,automatic,mid-size,sedan
+26999,2014,excellent,6 cylinders,gas,56603,automatic,mid-size,sedan
+13495,2012,like new,4 cylinders,diesel,60094,automatic,compact,hatchback
+2600,2013,good,4 cylinders,gas,84000,manual,compact,coupe
+7599,2015,like new,4 cylinders,gas,89000,automatic,mid-size,hatchback
+7500,2007,good,6 cylinders,gas,96000,manual,compact,coupe
+8200,2013,good,4 cylinders,gas,89545,automatic,full-size,sedan
+7500,2012,excellent,4 cylinders,gas,81990,automatic,compact,sedan
+8995,2012,like new,4 cylinders,gas,72778,automatic,full-size,sedan
+8995,2014,excellent,4 cylinders,gas,82256,automatic,compact,sedan
+2495,2015,like new,6 cylinders,gas,33433,automatic,full-size,sedan
+9975,2012,like new,6 cylinders,gas,88790,automatic,mid-size,sedan
+18987,2019,excellent,4 cylinders,gas,16000,automatic,full-size,sedan
+15995,2013,like new,6 cylinders,gas,70,automatic,full-size,sedan
+16980,2016,excellent,4 cylinders,gas,67806,manual,mid-size,sedan
+12500,2010,excellent,6 cylinders,gas,94077,automatic,compact,sedan
+6995,2013,excellent,4 cylinders,gas,50000,automatic,mid-size,sedan
+20995,2013,excellent,6 cylinders,gas,92641,automatic,mid-size,sedan
+24900,2010,excellent,6 cylinders,gas,77501,automatic,full-size,coupe
+13500,2016,excellent,4 cylinders,gas,28000,automatic,mid-size,sedan
+18988,2017,like new,4 cylinders,gas,47590,automatic,full-size,sedan
+14900,2017,excellent,6 cylinders,gas,89000,automatic,mid-size,sedan
+5850,2003,excellent,6 cylinders,gas,67000,automatic,mid-size,wagon
+10900,2014,excellent,4 cylinders,gas,51200,automatic,compact,sedan
+5000,2010,excellent,4 cylinders,gas,98316,automatic,mid-size,sedan
+15998,2017,excellent,4 cylinders,gas,45683,automatic,compact,hatchback
+15998,2017,like new,4 cylinders,gas,48422,automatic,mid-size,sedan
+16000,2018,like new,4 cylinders,gas,36433,automatic,mid-size,sedan
+21995,2013,excellent,6 cylinders,gas,73377,automatic,full-size,sedan
+7999,2016,good,4 cylinders,gas,66000,automatic,mid-size,sedan
+5000,2008,good,4 cylinders,gas,87841,automatic,compact,hatchback
+5995,2009,excellent,4 cylinders,gas,95477,automatic,sub-compact,sedan
+14490,2015,excellent,4 cylinders,gas,98621,automatic,compact,sedan
+4950,2013,excellent,4 cylinders,gas,80628,automatic,mid-size,sedan
+7995,2007,good,4 cylinders,gas,55944,automatic,mid-size,wagon
+9999,2017,excellent,4 cylinders,gas,40217,automatic,mid-size,sedan
+8400,2016,excellent,4 cylinders,gas,65000,automatic,compact,sedan
+14495,2014,excellent,6 cylinders,gas,93553,automatic,full-size,sedan
+13900,2014,excellent,6 cylinders,gas,80400,automatic,mid-size,sedan
+6990,2017,good,4 cylinders,gas,35000,automatic,mid-size,sedan
+5500,2004,good,4 cylinders,gas,79030,automatic,compact,hatchback
+4995,2010,good,4 cylinders,gas,83725,automatic,mid-size,sedan
+5995,2013,excellent,4 cylinders,gas,82000,automatic,full-size,sedan
+12000,2012,new,6 cylinders,gas,25000,automatic,compact,coupe
+19200,2020,new,4 cylinders,gas,9400,automatic,compact,sedan
+16500,2018,excellent,4 cylinders,gas,45463,automatic,full-size,sedan
+6800,2015,excellent,4 cylinders,gas,90254,automatic,compact,hatchback
+10995,2011,excellent,6 cylinders,gas,52217,automatic,full-size,sedan
+9000,2016,like new,6 cylinders,gas,44259,automatic,full-size,sedan
+18500,2020,like new,4 cylinders,gas,22000,automatic,mid-size,sedan
+3300,2002,good,6 cylinders,gas,85000,automatic,full-size,coupe
+3700,2012,good,4 cylinders,gas,96500,automatic,compact,sedan
+13999,2017,excellent,4 cylinders,gas,64000,automatic,compact,sedan
+9985,2007,excellent,6 cylinders,gas,81000,automatic,compact,sedan
+16995,2018,excellent,4 cylinders,gas,32363,automatic,mid-size,sedan
+6200,2009,excellent,4 cylinders,gas,63000,manual,mid-size,hatchback
+16500,2018,like new,4 cylinders,gas,52000,automatic,mid-size,sedan
+2200,2002,fair,4 cylinders,gas,237,automatic,sub-compact,hatchback
+19995,2018,excellent,4 cylinders,gas,35400,automatic,mid-size,coupe
+7500,2012,excellent,4 cylinders,gas,87000,automatic,compact,sedan
+4895,2009,good,4 cylinders,gas,86000,manual,compact,sedan
+14995,2013,like new,4 cylinders,gas,93027,automatic,full-size,sedan
+9990,2015,excellent,4 cylinders,gas,85386,automatic,mid-size,sedan
+28254,2018,excellent,4 cylinders,gas,21398,automatic,mid-size,sedan
+8999,2013,like new,4 cylinders,gas,32459,automatic,mid-size,sedan
+13995,2016,excellent,4 cylinders,gas,20897,automatic,compact,sedan
+4295,2005,excellent,4 cylinders,gas,0,automatic,mid-size,sedan
+8999,2016,excellent,4 cylinders,gas,61421,automatic,mid-size,sedan
+4990,2009,good,4 cylinders,gas,85000,automatic,sub-compact,sedan
+8200,2013,good,4 cylinders,gas,89545,automatic,full-size,sedan
+8000,2012,good,4 cylinders,gas,150,automatic,compact,wagon
+10495,2013,good,4 cylinders,gas,20846,automatic,mid-size,coupe
+12500,2015,excellent,4 cylinders,gas,51752,automatic,compact,hatchback
+8300,2013,good,6 cylinders,gas,67500,automatic,mid-size,sedan
+12705,2012,good,6 cylinders,gas,85558,automatic,mid-size,sedan
+2900,2005,good,6 cylinders,gas,65600,automatic,full-size,sedan
+15995,2017,excellent,6 cylinders,gas,16995,automatic,full-size,sedan
+15500,2018,like new,4 cylinders,gas,55300,automatic,mid-size,sedan
+12750,2013,good,6 cylinders,gas,82000,automatic,full-size,sedan
+13000,2014,like new,6 cylinders,gas,81450,automatic,full-size,coupe
+15500,2013,excellent,6 cylinders,gas,93000,automatic,mid-size,sedan
+16995,2017,like new,4 cylinders,gas,30216,automatic,mid-size,sedan
+10490,2017,excellent,4 cylinders,gas,87000,automatic,mid-size,sedan
+7995,2017,new,6 cylinders,gas,67012,automatic,full-size,sedan
+13980,2015,excellent,6 cylinders,gas,86433,automatic,full-size,sedan
+9500,2010,good,6 cylinders,gas,99450,automatic,full-size,sedan
+8500,2010,excellent,6 cylinders,gas,97000,automatic,mid-size,sedan
+9995,2019,excellent,4 cylinders,gas,792,automatic,mid-size,sedan
+15000,2009,like new,6 cylinders,gas,12000,automatic,full-size,sedan
+15495,2014,like new,4 cylinders,gas,92022,automatic,mid-size,sedan
+6000,2008,excellent,4 cylinders,gas,97689,automatic,compact,sedan
+8900,2016,excellent,4 cylinders,gas,76000,automatic,full-size,sedan
+7995,2012,like new,4 cylinders,gas,62100,automatic,mid-size,sedan
+19900,2015,excellent,6 cylinders,gas,68437,automatic,full-size,sedan
+18900,2018,excellent,6 cylinders,gas,31500,automatic,full-size,sedan
+7950,2008,like new,6 cylinders,gas,85000,automatic,full-size,sedan
+10995,2016,like new,4 cylinders,gas,73741,automatic,mid-size,sedan
+1500,2016,like new,4 cylinders,gas,99000,automatic,compact,coupe
+6800,2013,excellent,4 cylinders,gas,99900,automatic,sub-compact,sedan
+16995,2017,excellent,4 cylinders,gas,38000,automatic,compact,sedan
+199,2013,excellent,6 cylinders,gas,65355,automatic,mid-size,sedan
+20000,2017,like new,4 cylinders,gas,16610,automatic,compact,sedan
+12900,2015,excellent,4 cylinders,gas,85000,automatic,compact,hatchback
+1,2014,excellent,4 cylinders,gas,77813,automatic,mid-size,coupe
+12900,2011,excellent,6 cylinders,gas,73630,automatic,sub-compact,coupe
+15300,2018,like new,4 cylinders,gas,26700,manual,compact,sedan
+18000,2016,excellent,4 cylinders,gas,92704,automatic,full-size,sedan
+11995,2018,excellent,4 cylinders,gas,71584,automatic,full-size,sedan
+17995,2018,excellent,4 cylinders,gas,22292,automatic,mid-size,sedan
+14021,2016,excellent,4 cylinders,gas,44000,automatic,compact,sedan
+8500,2012,excellent,6 cylinders,gas,83000,automatic,mid-size,sedan
+3995,2005,like new,4 cylinders,gas,81214,automatic,mid-size,hatchback
+19999,2018,excellent,4 cylinders,gas,42295,automatic,mid-size,sedan
+7495,2011,good,4 cylinders,gas,94773,automatic,compact,sedan
+10998,2016,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+9990,2011,excellent,4 cylinders,gas,89330,automatic,mid-size,sedan
+7500,2005,like new,6 cylinders,gas,71000,automatic,full-size,sedan
+4000,2001,excellent,4 cylinders,gas,55708,automatic,compact,coupe
+12995,2016,excellent,4 cylinders,gas,53103,automatic,mid-size,sedan
+24995,2016,excellent,6 cylinders,gas,52972,automatic,full-size,sedan
+2750,2016,like new,4 cylinders,gas,64000,automatic,mid-size,coupe
+14495,2013,excellent,4 cylinders,gas,45568,automatic,full-size,sedan
+9888,2014,excellent,4 cylinders,gas,63349,automatic,mid-size,sedan
+4700,2001,good,6 cylinders,gas,65292,automatic,full-size,sedan
+11873,2014,excellent,4 cylinders,gas,95330,automatic,compact,sedan
+18750,2017,like new,4 cylinders,gas,35400,automatic,compact,sedan
+8995,2012,like new,6 cylinders,gas,88807,automatic,full-size,sedan
+8500,2010,good,4 cylinders,gas,92000,automatic,compact,coupe
+7000,2012,excellent,4 cylinders,gas,75932,automatic,compact,sedan
+15000,2019,excellent,4 cylinders,gas,22096,automatic,compact,sedan
+10988,2008,excellent,6 cylinders,gas,81657,automatic,full-size,sedan
+9000,2012,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+11950,2011,like new,6 cylinders,gas,95,automatic,full-size,sedan
+4500,2001,excellent,6 cylinders,gas,89588,automatic,full-size,sedan
+6200,2009,good,4 cylinders,gas,95418,automatic,compact,sedan
+8500,2015,excellent,4 cylinders,gas,80000,automatic,full-size,sedan
+12995,2015,like new,6 cylinders,gas,64589,automatic,full-size,sedan
+16250,2015,like new,4 cylinders,gas,69884,automatic,full-size,sedan
+14750,2016,excellent,4 cylinders,gas,43698,automatic,mid-size,sedan
+5300,2014,excellent,4 cylinders,gas,86819,manual,compact,hatchback
+4900,2007,good,4 cylinders,gas,76000,automatic,mid-size,sedan
+6100,2004,like new,4 cylinders,gas,81409,automatic,mid-size,sedan
+6000,2013,good,4 cylinders,gas,79500,manual,full-size,sedan
+18995,2018,like new,4 cylinders,gas,30169,automatic,full-size,sedan
+12947,2013,excellent,4 cylinders,diesel,47210,automatic,mid-size,sedan
+15300,2015,like new,6 cylinders,gas,94000,automatic,full-size,coupe
+3800,2002,good,6 cylinders,gas,80500,automatic,mid-size,sedan
+12675,2017,excellent,4 cylinders,gas,98796,automatic,mid-size,sedan
+14988,2013,good,4 cylinders,gas,71880,automatic,compact,wagon
+4300,2014,excellent,4 cylinders,gas,88000,automatic,mid-size,sedan
+17000,2017,good,4 cylinders,gas,35500,automatic,mid-size,sedan
+5000,2004,good,6 cylinders,gas,97200,automatic,full-size,sedan
+11450,2013,excellent,4 cylinders,gas,81000,automatic,compact,coupe
+31000,2017,excellent,4 cylinders,gas,12700,automatic,full-size,sedan
+3500,2004,good,4 cylinders,gas,52000,automatic,full-size,coupe
+12995,2013,excellent,4 cylinders,gas,61630,automatic,mid-size,sedan
+13500,2015,good,4 cylinders,gas,71000,automatic,full-size,sedan
+16995,2017,excellent,4 cylinders,gas,49236,automatic,mid-size,sedan
+6995,2012,excellent,4 cylinders,gas,91070,automatic,compact,sedan
+7000,2014,good,4 cylinders,gas,69097,automatic,compact,hatchback
+10999,2016,like new,6 cylinders,gas,73000,automatic,mid-size,sedan
+14500,2012,excellent,4 cylinders,gas,71102,automatic,full-size,sedan
+17990,2013,good,6 cylinders,gas,72600,automatic,mid-size,sedan
+9000,2013,good,4 cylinders,gas,93788,automatic,mid-size,sedan
+26900,2016,excellent,6 cylinders,gas,24758,automatic,mid-size,sedan
+19500,2017,like new,4 cylinders,gas,31492,automatic,compact,sedan
+22000,2016,excellent,6 cylinders,gas,55000,automatic,mid-size,sedan
+30000,2020,new,4 cylinders,gas,1500,manual,compact,coupe
+12499,2009,excellent,4 cylinders,gas,65000,automatic,mid-size,sedan
+7000,2010,like new,4 cylinders,gas,90000,automatic,full-size,sedan
+14995,2018,like new,4 cylinders,gas,38781,automatic,compact,sedan
+7495,2011,excellent,4 cylinders,gas,25000,automatic,sub-compact,coupe
+4995,2012,excellent,6 cylinders,gas,269,automatic,mid-size,sedan
+4500,2005,excellent,6 cylinders,gas,89000,automatic,full-size,sedan
+11995,2016,excellent,4 cylinders,gas,62319,automatic,mid-size,sedan
+14799,2013,excellent,6 cylinders,gas,69300,automatic,mid-size,sedan
+15950,2016,excellent,4 cylinders,gas,45000,automatic,full-size,wagon
+5000,2008,excellent,4 cylinders,gas,93000,automatic,mid-size,sedan
+6990,2012,good,4 cylinders,gas,96640,automatic,compact,sedan
+7800,2006,like new,4 cylinders,gas,56000,automatic,mid-size,sedan
+8000,2017,like new,4 cylinders,gas,40000,automatic,compact,coupe
+7300,2007,good,4 cylinders,gas,67455,automatic,mid-size,hatchback
+215,2017,excellent,4 cylinders,gas,60000,automatic,full-size,sedan
+9999,2010,like new,6 cylinders,gas,99132,automatic,full-size,sedan
+6500,2008,excellent,6 cylinders,gas,91000,automatic,full-size,sedan
+9999,2014,excellent,4 cylinders,gas,79623,automatic,full-size,sedan
+34999,2017,excellent,4 cylinders,gas,20585,automatic,full-size,coupe
+10700,2014,like new,4 cylinders,gas,91456,automatic,compact,sedan
+15700,2011,good,6 cylinders,gas,80400,automatic,compact,coupe
+12995,2012,excellent,6 cylinders,gas,79267,automatic,full-size,sedan
+13999,2017,good,4 cylinders,gas,65930,automatic,full-size,sedan
+27750,2018,excellent,4 cylinders,gas,58369,automatic,mid-size,sedan
+5900,2007,excellent,4 cylinders,gas,80770,manual,full-size,wagon
+13995,2015,excellent,4 cylinders,gas,60856,automatic,full-size,sedan
+9997,2015,good,4 cylinders,gas,69551,automatic,mid-size,coupe
+3500,2008,fair,4 cylinders,gas,98000,automatic,compact,coupe
+11250,2013,like new,6 cylinders,gas,72013,automatic,full-size,sedan
+199,2015,like new,4 cylinders,gas,90000,automatic,full-size,sedan
+9599,2010,excellent,4 cylinders,gas,91000,automatic,mid-size,sedan
+5991,2007,excellent,4 cylinders,gas,82202,automatic,full-size,sedan
+6800,2015,like new,4 cylinders,gas,76000,automatic,mid-size,sedan
+17995,2018,excellent,4 cylinders,gas,22292,automatic,mid-size,sedan
+8999,2016,excellent,4 cylinders,gas,61421,automatic,mid-size,sedan
+3950,2003,excellent,4 cylinders,gas,72000,manual,mid-size,coupe
+26900,2018,excellent,4 cylinders,gas,20161,automatic,sub-compact,hatchback
+1000,2018,like new,4 cylinders,gas,39000,automatic,mid-size,sedan
+9677,2013,excellent,4 cylinders,gas,97456,automatic,full-size,sedan
+14990,2017,like new,4 cylinders,gas,46431,automatic,compact,sedan
+8999,2009,like new,6 cylinders,gas,95922,automatic,mid-size,sedan
+8900,2014,good,4 cylinders,gas,92625,automatic,mid-size,sedan
+8695,2011,excellent,4 cylinders,gas,74850,automatic,mid-size,sedan
+31900,2019,like new,6 cylinders,gas,32936,automatic,full-size,sedan
+5988,2010,excellent,4 cylinders,gas,96196,automatic,sub-compact,sedan
+9500,2012,excellent,4 cylinders,gas,89960,automatic,mid-size,sedan
+16972,2019,excellent,4 cylinders,gas,40389,automatic,full-size,sedan
+8999,2014,like new,4 cylinders,gas,73262,automatic,full-size,sedan
+16000,2012,excellent,6 cylinders,gas,93068,automatic,compact,sedan
+11995,2015,excellent,4 cylinders,gas,60000,automatic,full-size,sedan
+7970,2012,good,6 cylinders,gas,45763,automatic,full-size,sedan
+12900,2012,good,6 cylinders,gas,53454,automatic,full-size,sedan
+2250,2001,good,6 cylinders,gas,203,automatic,compact,sedan
+2500,2012,good,4 cylinders,gas,97000,automatic,compact,sedan
+3995,2007,good,4 cylinders,gas,1,automatic,mid-size,sedan
+25800,2015,excellent,4 cylinders,gas,60000,automatic,full-size,sedan
+10000,2016,excellent,4 cylinders,gas,99728,automatic,compact,sedan
+11675,2013,excellent,6 cylinders,gas,94085,automatic,mid-size,sedan
+9750,2016,good,4 cylinders,gas,82235,automatic,mid-size,sedan
+22900,2016,excellent,4 cylinders,gas,36000,automatic,mid-size,sedan
+6495,2013,excellent,4 cylinders,gas,96442,automatic,full-size,sedan
+13495,2013,like new,4 cylinders,gas,94363,automatic,mid-size,sedan
+12995,2017,good,4 cylinders,gas,61686,manual,compact,sedan
+8500,2014,good,4 cylinders,gas,73025,automatic,compact,hatchback
+7950,2018,excellent,4 cylinders,gas,48950,automatic,compact,sedan
+7490,2008,excellent,4 cylinders,gas,87000,automatic,mid-size,sedan
+9995,2011,like new,6 cylinders,gas,99981,automatic,full-size,sedan
+7600,2014,like new,4 cylinders,gas,65000,automatic,compact,sedan
+6695,2013,excellent,4 cylinders,gas,90975,automatic,full-size,sedan
+11960,2012,like new,4 cylinders,gas,48982,automatic,compact,coupe
+9999,2015,excellent,4 cylinders,gas,94307,automatic,full-size,sedan
+9499,2016,excellent,4 cylinders,gas,81031,automatic,full-size,sedan
+13385,2017,good,4 cylinders,gas,29800,automatic,compact,hatchback
+7995,2011,good,6 cylinders,gas,85000,automatic,full-size,sedan
+13750,2015,excellent,4 cylinders,gas,52455,automatic,mid-size,sedan
+15900,2013,excellent,4 cylinders,gas,66286,automatic,compact,hatchback
+13997,2017,excellent,4 cylinders,gas,18561,automatic,mid-size,sedan
+11500,2003,excellent,6 cylinders,gas,77000,manual,full-size,sedan
+21995,2017,excellent,4 cylinders,gas,64431,automatic,mid-size,sedan
+4900,2001,good,6 cylinders,gas,65292,automatic,full-size,sedan
+3500,2006,like new,6 cylinders,gas,93000,automatic,full-size,sedan
+16900,2011,like new,6 cylinders,gas,73000,automatic,mid-size,coupe
+11995,2016,excellent,4 cylinders,gas,44729,automatic,mid-size,sedan
+14999,2013,excellent,4 cylinders,gas,87931,manual,sub-compact,coupe
+10495,2016,excellent,4 cylinders,gas,83491,automatic,compact,sedan
+31500,2017,like new,6 cylinders,gas,35000,automatic,mid-size,sedan
+14995,2018,like new,4 cylinders,gas,27751,automatic,mid-size,sedan
+13000,2018,excellent,6 cylinders,gas,62207,automatic,full-size,sedan
+12495,2014,excellent,6 cylinders,gas,83000,automatic,full-size,sedan
+8950,2009,like new,4 cylinders,gas,71000,manual,compact,coupe
+8000,2009,good,4 cylinders,gas,86000,automatic,full-size,sedan
+23500,2019,like new,4 cylinders,gas,3563,automatic,mid-size,sedan
+3950,2016,like new,6 cylinders,gas,78318,automatic,full-size,sedan
+7995,2011,excellent,4 cylinders,gas,90000,automatic,compact,sedan
+17988,2017,excellent,4 cylinders,gas,18971,automatic,mid-size,sedan
+11399,2015,like new,4 cylinders,gas,98384,automatic,compact,sedan
+19300,2016,excellent,4 cylinders,gas,91853,automatic,full-size,wagon
+18900,2014,excellent,6 cylinders,gas,62000,automatic,mid-size,sedan
+11500,2015,excellent,4 cylinders,gas,80321,automatic,mid-size,sedan
+17300,2016,excellent,6 cylinders,gas,47100,automatic,full-size,sedan
+8195,2007,excellent,6 cylinders,gas,74881,automatic,full-size,sedan
+6500,2013,good,4 cylinders,gas,95000,automatic,compact,sedan
+25545,2019,excellent,6 cylinders,gas,33383,automatic,full-size,sedan
+19500,2016,excellent,4 cylinders,gas,53914,automatic,full-size,sedan
+9999,2013,excellent,4 cylinders,gas,99091,automatic,compact,sedan
+7800,2010,excellent,4 cylinders,gas,91242,manual,compact,coupe
+15669,2013,like new,4 cylinders,gas,45000,automatic,mid-size,sedan
+8800,2014,like new,4 cylinders,gas,70000,automatic,full-size,wagon
+8995,2017,excellent,4 cylinders,gas,69600,automatic,compact,sedan
+11200,2018,excellent,4 cylinders,gas,61000,automatic,mid-size,sedan
+9900,2015,like new,4 cylinders,gas,47475,automatic,full-size,sedan
+11999,2014,excellent,4 cylinders,gas,74696,automatic,mid-size,sedan
+2000,2017,excellent,4 cylinders,gas,81250,automatic,compact,sedan
+5200,2004,good,6 cylinders,gas,90244,automatic,mid-size,sedan
+12990,2013,excellent,4 cylinders,gas,92209,automatic,mid-size,hatchback
+8500,2016,new,4 cylinders,gas,65000,automatic,compact,sedan
+5943,2010,good,4 cylinders,gas,94115,automatic,mid-size,sedan
+9900,2015,good,4 cylinders,gas,83091,automatic,compact,sedan
+12300,2012,excellent,6 cylinders,gas,98884,automatic,compact,sedan
+17549,2014,good,6 cylinders,gas,61824,automatic,mid-size,coupe
+10988,2016,excellent,4 cylinders,gas,83739,automatic,mid-size,sedan
+8995,2011,good,6 cylinders,gas,75000,automatic,full-size,sedan
+10991,2009,excellent,6 cylinders,gas,49000,manual,full-size,sedan
+7500,2013,excellent,4 cylinders,gas,86900,automatic,full-size,sedan
+28800,2018,excellent,4 cylinders,gas,31966,automatic,mid-size,sedan
+8500,2010,good,6 cylinders,gas,97000,automatic,mid-size,sedan
+9995,2008,excellent,6 cylinders,gas,91611,automatic,full-size,wagon
+10995,2015,excellent,4 cylinders,gas,97826,automatic,mid-size,sedan
+100,2019,like new,4 cylinders,gas,38997,automatic,mid-size,sedan
+24900,2015,like new,6 cylinders,gas,76545,automatic,full-size,sedan
+24500,2015,excellent,4 cylinders,gas,95000,manual,mid-size,sedan
+12499,2014,excellent,4 cylinders,gas,75689,automatic,mid-size,hatchback
+5000,2014,good,4 cylinders,gas,65000,manual,compact,sedan
+9000,2016,excellent,4 cylinders,gas,43500,automatic,full-size,sedan
+9000,2014,like new,4 cylinders,gas,35582,automatic,mid-size,sedan
+21650,2018,like new,6 cylinders,gas,45244,automatic,full-size,sedan
+4500,2003,like new,6 cylinders,gas,32339,automatic,full-size,sedan
+8900,2013,like new,4 cylinders,gas,85667,automatic,full-size,hatchback
+6495,2012,like new,6 cylinders,gas,78488,automatic,mid-size,sedan
+23500,2018,like new,4 cylinders,gas,32591,automatic,mid-size,wagon
+25995,2018,good,4 cylinders,gas,23258,automatic,full-size,sedan
+7600,2017,like new,4 cylinders,gas,51000,automatic,compact,sedan
+24598,2018,excellent,6 cylinders,gas,12249,automatic,full-size,sedan
+12800,2015,excellent,4 cylinders,gas,80119,automatic,compact,sedan
+16000,2012,excellent,6 cylinders,gas,86000,automatic,compact,sedan
+6850,2009,like new,6 cylinders,gas,96000,automatic,full-size,sedan
+10700,2007,excellent,6 cylinders,gas,83780,automatic,full-size,sedan
+10450,2016,excellent,4 cylinders,gas,86260,automatic,mid-size,sedan
+16495,2015,excellent,4 cylinders,gas,65486,automatic,full-size,wagon
+17000,2014,like new,4 cylinders,gas,45600,automatic,mid-size,sedan
+10970,2013,good,4 cylinders,gas,61395,automatic,compact,sedan
+4850,2013,good,6 cylinders,gas,156,automatic,mid-size,sedan
+7990,2014,excellent,4 cylinders,gas,65000,automatic,mid-size,sedan
+8999,2014,excellent,4 cylinders,gas,53000,automatic,mid-size,hatchback
+6600,2011,excellent,4 cylinders,gas,94000,automatic,mid-size,sedan
+12995,2016,like new,4 cylinders,gas,61127,automatic,compact,sedan
+12690,2014,excellent,4 cylinders,gas,82010,automatic,full-size,sedan
+9200,2009,excellent,6 cylinders,gas,82000,automatic,mid-size,sedan
+5995,2004,excellent,4 cylinders,gas,38111,automatic,full-size,sedan
+5900,2013,excellent,4 cylinders,gas,100,automatic,compact,coupe
+17200,2016,excellent,4 cylinders,gas,67781,automatic,full-size,sedan
+7800,2014,excellent,4 cylinders,gas,92902,automatic,mid-size,sedan
+10970,2016,good,4 cylinders,gas,80070,automatic,mid-size,sedan
+6475,2015,excellent,4 cylinders,gas,78367,automatic,compact,hatchback
+16995,2017,like new,4 cylinders,gas,28463,automatic,mid-size,sedan
+8500,2011,excellent,6 cylinders,gas,97000,automatic,full-size,sedan
+19999,2018,like new,4 cylinders,gas,46379,automatic,mid-size,sedan
+14500,2013,excellent,6 cylinders,gas,81200,automatic,full-size,sedan
+6900,2015,excellent,4 cylinders,gas,70000,automatic,compact,sedan
+2500,2017,like new,4 cylinders,gas,23000,automatic,full-size,hatchback
+18000,2016,like new,6 cylinders,gas,60000,automatic,full-size,sedan
+2450,2005,excellent,4 cylinders,gas,210,automatic,compact,coupe
+8990,2011,excellent,4 cylinders,gas,74121,manual,mid-size,sedan
+15995,2012,excellent,6 cylinders,gas,67403,automatic,full-size,sedan
+13495,2013,excellent,6 cylinders,gas,81000,automatic,full-size,wagon
+6000,2010,excellent,4 cylinders,gas,96821,automatic,mid-size,sedan
+6495,2004,excellent,6 cylinders,gas,72208,automatic,full-size,sedan
+12000,2015,excellent,4 cylinders,gas,95000,manual,compact,sedan
+16000,2013,like new,4 cylinders,gas,29500,manual,compact,coupe
+9995,2013,excellent,4 cylinders,gas,98000,automatic,compact,hatchback
+7995,2014,excellent,4 cylinders,gas,89000,automatic,mid-size,sedan
+6995,2007,good,6 cylinders,gas,77000,automatic,full-size,sedan
+20995,2015,like new,4 cylinders,gas,66922,automatic,mid-size,sedan
+25995,2014,excellent,6 cylinders,gas,43389,automatic,mid-size,sedan
+18495,2014,like new,4 cylinders,gas,60379,automatic,full-size,sedan
+14995,2016,excellent,4 cylinders,gas,96170,automatic,mid-size,sedan
+24995,2017,like new,6 cylinders,gas,45318,automatic,mid-size,coupe
+13800,2015,excellent,4 cylinders,gas,60000,automatic,full-size,sedan
+8995,2012,excellent,6 cylinders,gas,25612,automatic,mid-size,sedan
+1800,2003,good,6 cylinders,gas,45600,automatic,mid-size,sedan
+16999,2012,good,6 cylinders,gas,73594,automatic,mid-size,coupe
+17949,2017,like new,4 cylinders,gas,30748,automatic,mid-size,sedan
+9898,2012,like new,4 cylinders,gas,90000,automatic,mid-size,sedan
+9481,2017,like new,4 cylinders,gas,84111,automatic,mid-size,sedan
+13990,2015,excellent,6 cylinders,gas,59098,automatic,mid-size,sedan
+21650,2018,like new,6 cylinders,gas,45224,automatic,full-size,sedan
+999,2010,excellent,6 cylinders,gas,44724,automatic,full-size,sedan
+7200,2007,good,6 cylinders,gas,49480,automatic,full-size,sedan
+1,2018,excellent,6 cylinders,gas,16845,automatic,compact,wagon
+15500,2019,excellent,4 cylinders,gas,6500,automatic,compact,sedan
+5200,2007,excellent,4 cylinders,gas,55000,automatic,mid-size,sedan
+7200,2011,excellent,6 cylinders,gas,92071,automatic,full-size,sedan
+8300,2015,good,4 cylinders,gas,94000,automatic,full-size,sedan
+6000,2008,excellent,4 cylinders,gas,90617,automatic,compact,sedan
+1,2018,excellent,6 cylinders,gas,62531,automatic,compact,wagon
+5500,2013,fair,4 cylinders,gas,65000,automatic,compact,coupe
+8995,2011,good,6 cylinders,gas,75000,automatic,full-size,sedan
+13750,2014,excellent,4 cylinders,gas,46000,automatic,compact,sedan
+9450,2015,excellent,4 cylinders,gas,94500,automatic,full-size,sedan
+7295,2011,good,4 cylinders,gas,99462,automatic,mid-size,sedan
+11156,2018,good,4 cylinders,gas,32219,automatic,mid-size,hatchback
+7900,2013,like new,4 cylinders,gas,37000,automatic,compact,sedan
+10700,2009,excellent,4 cylinders,gas,55000,automatic,full-size,wagon
+8500,2009,excellent,6 cylinders,gas,78327,automatic,full-size,sedan
+8500,2011,excellent,4 cylinders,gas,84600,automatic,compact,sedan
+20500,2017,excellent,6 cylinders,gas,64261,automatic,full-size,sedan
+15995,2018,excellent,4 cylinders,gas,50000,automatic,full-size,sedan
+10500,2016,good,4 cylinders,gas,94000,automatic,compact,hatchback
+18489,2015,excellent,6 cylinders,gas,67526,automatic,full-size,sedan
+3100,2006,excellent,4 cylinders,gas,145,automatic,compact,sedan
+17995,2018,excellent,4 cylinders,gas,22292,automatic,mid-size,sedan
+6300,2015,good,4 cylinders,gas,140,automatic,mid-size,sedan
+8995,2014,like new,4 cylinders,gas,97069,automatic,mid-size,sedan
+7995,2011,like new,4 cylinders,gas,79000,automatic,mid-size,sedan
+16500,2016,excellent,4 cylinders,gas,86000,automatic,mid-size,hatchback
+12488,2017,excellent,4 cylinders,gas,83667,automatic,mid-size,sedan
+5900,2010,good,4 cylinders,gas,97000,automatic,mid-size,wagon
+18971,2015,excellent,4 cylinders,gas,71258,automatic,compact,sedan
+9590,2013,like new,4 cylinders,gas,40000,automatic,full-size,sedan
+19800,2020,like new,4 cylinders,gas,500,automatic,compact,hatchback
+10600,2016,excellent,4 cylinders,gas,29160,automatic,compact,hatchback
+8500,2011,good,4 cylinders,gas,76417,automatic,mid-size,sedan
+13500,2016,excellent,4 cylinders,gas,48787,automatic,mid-size,sedan
+10999,2016,like new,4 cylinders,gas,25000,automatic,compact,sedan
+9500,2016,like new,4 cylinders,gas,76000,automatic,mid-size,sedan
+7990,2013,excellent,4 cylinders,gas,59000,automatic,compact,hatchback
+15995,2014,excellent,4 cylinders,gas,77557,automatic,full-size,sedan
+12495,2018,excellent,4 cylinders,gas,12225,automatic,compact,sedan
+1000,2019,like new,4 cylinders,gas,28000,automatic,mid-size,sedan
+19995,2018,like new,4 cylinders,gas,43000,manual,compact,hatchback
+17000,2015,good,6 cylinders,gas,60000,automatic,full-size,sedan
+7200,2011,excellent,4 cylinders,gas,95311,automatic,mid-size,sedan
+6995,2009,good,4 cylinders,gas,50874,automatic,mid-size,sedan
+16500,2017,excellent,4 cylinders,gas,77000,automatic,mid-size,wagon
+11400,2015,excellent,4 cylinders,gas,70000,automatic,mid-size,sedan
+4500,2005,like new,4 cylinders,gas,11123,automatic,compact,sedan
+6500,2007,excellent,6 cylinders,gas,84590,automatic,mid-size,hatchback
+22000,2002,like new,6 cylinders,gas,23278,automatic,mid-size,coupe
+11000,2013,excellent,6 cylinders,gas,86079,automatic,mid-size,sedan
+7900,2005,like new,6 cylinders,gas,33000,automatic,full-size,wagon
+8995,2014,good,4 cylinders,gas,71829,automatic,mid-size,sedan
+9500,2014,excellent,6 cylinders,gas,88000,automatic,mid-size,sedan
+4800,2005,excellent,4 cylinders,gas,32,automatic,compact,hatchback
+13995,2015,like new,4 cylinders,gas,34417,automatic,full-size,sedan
+11350,2015,excellent,4 cylinders,gas,68500,automatic,mid-size,sedan
+1,2017,excellent,4 cylinders,gas,95374,automatic,mid-size,sedan
+13875,2014,excellent,6 cylinders,gas,36243,automatic,full-size,sedan
+9350,2016,good,4 cylinders,gas,66000,automatic,compact,sedan
+12000,2009,like new,6 cylinders,gas,67000,automatic,full-size,sedan
+14633,2015,excellent,4 cylinders,gas,44933,automatic,mid-size,sedan
+9999,2012,like new,6 cylinders,gas,74000,automatic,full-size,sedan
+1,2015,excellent,4 cylinders,gas,50566,automatic,compact,sedan
+16800,2015,excellent,6 cylinders,gas,75745,automatic,full-size,sedan
+9450,2015,good,6 cylinders,gas,99611,automatic,full-size,sedan
+5600,2015,excellent,4 cylinders,gas,59460,manual,compact,hatchback
+37995,2017,like new,6 cylinders,gas,28853,automatic,full-size,sedan
+11900,2012,excellent,4 cylinders,gas,78330,automatic,full-size,sedan
+12000,2017,excellent,4 cylinders,gas,72000,automatic,compact,sedan
+100,2019,like new,4 cylinders,gas,35977,automatic,mid-size,sedan
+12800,2015,new,4 cylinders,gas,31191,automatic,compact,coupe
+3500,2001,good,6 cylinders,gas,70000,automatic,mid-size,sedan
+10500,2016,excellent,4 cylinders,gas,98000,automatic,mid-size,sedan
+8950,2012,like new,4 cylinders,gas,147,automatic,full-size,sedan
+9995,2008,excellent,6 cylinders,gas,92556,automatic,compact,sedan
+7995,2016,excellent,4 cylinders,gas,79004,automatic,compact,hatchback
+6995,2013,like new,4 cylinders,gas,85424,manual,compact,sedan
+17900,2018,like new,4 cylinders,gas,35000,automatic,mid-size,sedan
+5700,2010,excellent,4 cylinders,gas,99000,automatic,sub-compact,sedan
+9495,2014,excellent,6 cylinders,gas,74064,automatic,mid-size,sedan
+27698,2019,excellent,6 cylinders,gas,42812,automatic,full-size,sedan
+8995,2012,good,4 cylinders,gas,96823,automatic,compact,wagon
+14500,2017,excellent,4 cylinders,gas,77500,automatic,mid-size,sedan
+18440,2017,excellent,4 cylinders,gas,37011,automatic,full-size,sedan
+6450,2008,excellent,4 cylinders,gas,99210,automatic,compact,sedan
+17900,2017,like new,4 cylinders,gas,29000,automatic,mid-size,sedan
+7500,2012,excellent,4 cylinders,gas,71000,automatic,mid-size,sedan
+21700,2017,excellent,4 cylinders,gas,84049,automatic,mid-size,sedan
+4995,2002,like new,4 cylinders,gas,64000,automatic,mid-size,coupe
+16995,2014,excellent,6 cylinders,gas,90251,automatic,mid-size,sedan
+9995,2008,excellent,6 cylinders,gas,91611,automatic,full-size,wagon
+4600,2011,good,4 cylinders,gas,53683,automatic,mid-size,sedan
+1895,2013,good,4 cylinders,gas,83000,automatic,mid-size,sedan
+2400,2016,good,4 cylinders,gas,40000,automatic,mid-size,sedan
+6973,2012,good,4 cylinders,gas,95017,automatic,compact,coupe
+9999,2013,excellent,4 cylinders,gas,35000,automatic,compact,hatchback
+15400,2014,excellent,4 cylinders,gas,83956,automatic,full-size,sedan
+16500,2016,excellent,4 cylinders,gas,25000,automatic,compact,sedan
+8299,2015,good,4 cylinders,gas,41000,automatic,full-size,sedan
+12995,2013,excellent,6 cylinders,gas,79702,automatic,mid-size,sedan
+16000,2017,excellent,4 cylinders,gas,26000,automatic,compact,sedan
+10950,2014,excellent,4 cylinders,gas,61000,automatic,sub-compact,sedan
+12695,2015,excellent,4 cylinders,gas,75000,automatic,compact,sedan
+10995,2017,excellent,4 cylinders,gas,95994,automatic,full-size,sedan
+5600,2013,good,4 cylinders,gas,88000,manual,compact,sedan
+6995,2007,good,6 cylinders,gas,77000,automatic,full-size,sedan
+4500,2007,excellent,4 cylinders,gas,77800,automatic,full-size,sedan
+16977,2015,excellent,4 cylinders,gas,61193,automatic,mid-size,sedan
+6795,2008,excellent,4 cylinders,gas,88450,automatic,sub-compact,sedan
+7000,2019,good,4 cylinders,gas,21626,automatic,mid-size,sedan
+12991,2013,excellent,6 cylinders,gas,99098,automatic,full-size,sedan
+19500,2015,like new,4 cylinders,gas,32297,automatic,full-size,sedan
+9500,2011,good,4 cylinders,gas,87800,automatic,full-size,sedan
+10500,2011,excellent,4 cylinders,gas,78036,automatic,mid-size,sedan
+22995,2016,like new,4 cylinders,gas,14822,automatic,full-size,sedan
+5975,2013,excellent,4 cylinders,gas,87501,manual,mid-size,coupe
+8950,2017,excellent,4 cylinders,gas,26000,automatic,full-size,sedan
+17800,2020,good,4 cylinders,gas,44716,automatic,mid-size,hatchback
+4500,2002,excellent,4 cylinders,gas,84000,automatic,compact,sedan
+5000,2002,good,6 cylinders,gas,98000,automatic,compact,sedan
+25995,2014,excellent,6 cylinders,gas,43389,automatic,mid-size,sedan
+6750,2014,like new,4 cylinders,gas,94000,automatic,compact,sedan
+500,2013,like new,4 cylinders,gas,44995,automatic,full-size,sedan
+21995,2019,excellent,6 cylinders,gas,22697,automatic,full-size,sedan
+16725,2016,excellent,6 cylinders,gas,95625,automatic,full-size,sedan
+22440,2017,excellent,4 cylinders,gas,42762,automatic,mid-size,sedan
+6000,2010,good,4 cylinders,gas,65000,automatic,mid-size,wagon
+12999,2015,good,4 cylinders,gas,81000,automatic,full-size,sedan
+323,2016,new,6 cylinders,gas,56000,automatic,full-size,sedan
+6950,2013,good,4 cylinders,gas,91000,automatic,mid-size,sedan
+14999,2015,excellent,4 cylinders,gas,51780,automatic,compact,sedan
+21500,2017,excellent,6 cylinders,gas,90122,automatic,full-size,sedan
+14995,2019,excellent,4 cylinders,gas,7480,automatic,mid-size,sedan
+19999,2013,excellent,6 cylinders,gas,88000,automatic,mid-size,sedan
+25500,2014,excellent,6 cylinders,gas,40000,automatic,full-size,sedan
+14500,2020,like new,4 cylinders,gas,3000,automatic,sub-compact,sedan
+5000,2007,excellent,6 cylinders,gas,92193,automatic,mid-size,coupe
+1,2013,good,4 cylinders,gas,54000,automatic,compact,sedan
+9995,2013,good,4 cylinders,gas,65703,automatic,mid-size,sedan
+16995,2019,like new,4 cylinders,gas,21288,automatic,compact,sedan
+4999,2001,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+10800,2012,good,4 cylinders,gas,91000,automatic,mid-size,coupe
+6800,2006,good,6 cylinders,gas,94200,manual,compact,coupe
+13350,2015,excellent,6 cylinders,gas,37950,automatic,mid-size,coupe
+3300,2005,good,6 cylinders,gas,135,automatic,mid-size,sedan
+10900,2012,excellent,4 cylinders,gas,92000,automatic,mid-size,hatchback
+15995,2016,like new,4 cylinders,gas,54565,automatic,compact,sedan
+8500,2012,good,4 cylinders,gas,98698,automatic,mid-size,sedan
+8990,2013,good,4 cylinders,gas,83314,automatic,mid-size,hatchback
+27500,2016,excellent,4 cylinders,gas,50000,manual,compact,hatchback
+13995,2013,like new,6 cylinders,gas,20456,automatic,mid-size,sedan
+10500,2014,excellent,4 cylinders,gas,94000,automatic,full-size,sedan
+10999,2016,like new,4 cylinders,gas,25000,automatic,compact,sedan
+6800,2012,like new,6 cylinders,gas,68000,automatic,full-size,sedan
+13200,2014,good,4 cylinders,gas,49000,manual,mid-size,hatchback
+8999,2016,like new,4 cylinders,gas,52000,automatic,mid-size,sedan
+18500,2014,like new,6 cylinders,gas,56000,automatic,mid-size,coupe
+6500,2010,good,4 cylinders,gas,48000,automatic,mid-size,sedan
+16995,2017,excellent,4 cylinders,gas,25441,automatic,mid-size,sedan
+9750,2012,excellent,4 cylinders,gas,93000,automatic,compact,sedan
+9999,2015,excellent,4 cylinders,gas,67368,automatic,mid-size,sedan
+10000,2011,good,4 cylinders,gas,74000,manual,compact,hatchback
+17000,2019,good,4 cylinders,gas,39000,automatic,mid-size,sedan
+7850,2005,like new,6 cylinders,gas,51000,automatic,full-size,sedan
+9990,2015,excellent,4 cylinders,gas,85829,automatic,full-size,sedan
+8450,2012,good,4 cylinders,gas,88364,automatic,mid-size,sedan
+4995,2006,excellent,4 cylinders,gas,93840,automatic,sub-compact,wagon
+6195,2008,excellent,4 cylinders,gas,91000,automatic,mid-size,sedan
+22988,2016,like new,6 cylinders,gas,65000,automatic,full-size,coupe
+15999,2015,good,6 cylinders,gas,77000,automatic,full-size,coupe
+31000,2018,like new,4 cylinders,gas,37943,automatic,mid-size,sedan
+10999,2011,excellent,4 cylinders,gas,67123,automatic,compact,sedan
+14400,2015,excellent,4 cylinders,gas,83000,automatic,mid-size,sedan
+2900,2008,like new,4 cylinders,gas,98522,automatic,full-size,sedan
+1500,2014,like new,4 cylinders,gas,62000,automatic,compact,sedan
+4200,2011,good,4 cylinders,gas,92500,automatic,compact,sedan
+8999,2014,excellent,4 cylinders,gas,42006,automatic,sub-compact,sedan
+8000,2017,excellent,4 cylinders,gas,79000,automatic,compact,sedan
+23000,2020,like new,4 cylinders,gas,24505,automatic,mid-size,sedan
+6500,2010,excellent,4 cylinders,gas,99098,automatic,full-size,sedan
+9525,2015,excellent,4 cylinders,gas,87000,automatic,full-size,sedan
+8500,2012,excellent,4 cylinders,diesel,97813,automatic,full-size,sedan
+14995,2015,good,4 cylinders,gas,52000,automatic,full-size,sedan
+19000,2014,excellent,4 cylinders,gas,59100,automatic,mid-size,coupe
+11990,2015,excellent,4 cylinders,gas,79761,automatic,compact,coupe
+8950,2014,excellent,6 cylinders,gas,47807,automatic,compact,hatchback
+12400,2014,good,6 cylinders,gas,92957,automatic,mid-size,sedan
+9995,2008,good,6 cylinders,gas,87047,automatic,compact,sedan
+19995,2018,like new,4 cylinders,gas,43000,manual,compact,hatchback
+3250,2002,excellent,6 cylinders,gas,153,automatic,mid-size,sedan
+7200,2014,good,6 cylinders,gas,65000,automatic,mid-size,sedan
+16500,2017,like new,4 cylinders,gas,14000,automatic,mid-size,hatchback
+17900,2016,excellent,4 cylinders,gas,53867,automatic,compact,hatchback
+28850,2015,excellent,6 cylinders,gas,76970,automatic,sub-compact,coupe
+21500,2014,like new,6 cylinders,diesel,75014,automatic,full-size,sedan
+21650,2018,like new,6 cylinders,gas,45244,automatic,full-size,sedan
+3995,2005,good,6 cylinders,gas,79000,automatic,mid-size,sedan
+11500,2019,like new,4 cylinders,gas,30000,automatic,full-size,sedan
+12000,2013,like new,4 cylinders,gas,41950,automatic,full-size,sedan
+16900,2018,excellent,4 cylinders,gas,14000,automatic,full-size,sedan
+14500,2015,good,4 cylinders,gas,58919,automatic,mid-size,hatchback
+7962,2018,good,6 cylinders,gas,45725,automatic,full-size,sedan
+190,2015,excellent,4 cylinders,gas,69366,automatic,full-size,sedan
+13950,2014,excellent,4 cylinders,gas,47026,automatic,compact,sedan
+14995,2016,like new,4 cylinders,gas,92231,automatic,full-size,sedan
+8500,2010,good,4 cylinders,gas,77000,automatic,mid-size,sedan
+23995,2018,like new,6 cylinders,gas,85054,automatic,full-size,sedan
+12000,2016,good,4 cylinders,gas,86000,automatic,full-size,sedan
+4400,2008,fair,6 cylinders,gas,63000,automatic,full-size,sedan
+11000,2015,excellent,4 cylinders,gas,79000,automatic,mid-size,hatchback
+23850,2018,like new,6 cylinders,gas,57000,automatic,mid-size,coupe
+16599,2017,excellent,4 cylinders,gas,88500,automatic,full-size,sedan
+27250,2019,like new,4 cylinders,gas,35000,automatic,mid-size,coupe
+13900,2010,like new,6 cylinders,gas,48000,automatic,full-size,coupe
+8600,2011,excellent,4 cylinders,gas,64000,automatic,mid-size,sedan
+9800,2010,good,4 cylinders,gas,98322,automatic,compact,coupe
+9500,2019,like new,4 cylinders,gas,30000,manual,full-size,sedan
+5850,2010,excellent,4 cylinders,gas,92578,automatic,mid-size,sedan
+10500,2015,excellent,4 cylinders,gas,80000,automatic,mid-size,sedan
+15000,2012,like new,6 cylinders,gas,48000,automatic,compact,coupe
+8999,2014,excellent,4 cylinders,gas,69595,automatic,full-size,sedan
+3700,2008,excellent,4 cylinders,gas,76147,automatic,mid-size,coupe
+7495,2014,excellent,4 cylinders,gas,82453,automatic,full-size,sedan
+18000,2016,like new,6 cylinders,gas,31000,automatic,full-size,sedan
+10000,2015,excellent,4 cylinders,gas,98000,automatic,mid-size,sedan
+10795,2013,like new,4 cylinders,gas,90023,automatic,full-size,sedan
+9900,2016,excellent,4 cylinders,gas,21000,automatic,compact,sedan
+12999,2016,excellent,4 cylinders,gas,40343,automatic,sub-compact,sedan
+7750,2010,excellent,6 cylinders,gas,35000,automatic,compact,coupe
+14900,2014,excellent,4 cylinders,gas,83539,automatic,compact,sedan
+13977,2016,excellent,4 cylinders,gas,82436,automatic,mid-size,sedan
+27750,2018,excellent,4 cylinders,gas,58369,automatic,mid-size,sedan
+10990,2018,like new,4 cylinders,gas,80217,automatic,full-size,sedan
+18685,2016,excellent,6 cylinders,gas,61950,automatic,mid-size,sedan
+2995,2003,excellent,4 cylinders,gas,1,automatic,compact,sedan
+7700,2016,excellent,4 cylinders,gas,75000,automatic,full-size,sedan
+10200,2016,excellent,4 cylinders,gas,29160,automatic,compact,hatchback
+9995,2016,excellent,4 cylinders,gas,94000,automatic,full-size,sedan
+16888,2017,excellent,4 cylinders,gas,69835,automatic,compact,coupe
+1,2014,like new,6 cylinders,gas,98142,automatic,full-size,sedan
+12900,2011,excellent,4 cylinders,gas,52000,automatic,full-size,sedan
+17800,2017,excellent,4 cylinders,gas,57000,automatic,mid-size,hatchback
+6995,2015,like new,4 cylinders,gas,82776,automatic,compact,sedan
+7995,2013,excellent,4 cylinders,gas,83000,automatic,compact,hatchback
+7000,2016,excellent,4 cylinders,gas,81000,automatic,full-size,sedan
+19000,2019,excellent,4 cylinders,gas,30000,automatic,compact,sedan
+19995,2015,like new,4 cylinders,gas,66922,automatic,mid-size,sedan
+4000,2003,excellent,6 cylinders,gas,74389,automatic,sub-compact,sedan
+33900,2019,excellent,6 cylinders,gas,20500,automatic,full-size,sedan
+11490,2013,good,4 cylinders,gas,63730,automatic,mid-size,hatchback
+18000,2016,excellent,4 cylinders,gas,68000,manual,mid-size,hatchback
+23900,2017,excellent,6 cylinders,gas,26000,automatic,full-size,sedan
+13699,2015,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+11999,2015,excellent,4 cylinders,gas,93752,automatic,mid-size,sedan
+11995,2016,excellent,4 cylinders,gas,14000,automatic,compact,sedan
+6250,2010,like new,4 cylinders,gas,153,automatic,mid-size,sedan
+36000,2015,excellent,6 cylinders,gas,98000,automatic,full-size,sedan
+6495,2012,like new,4 cylinders,gas,71500,automatic,mid-size,sedan
+13950,2014,excellent,4 cylinders,gas,47026,automatic,compact,sedan
+10000,2016,excellent,4 cylinders,gas,99728,automatic,compact,sedan
+9995,2011,excellent,4 cylinders,gas,97656,automatic,compact,sedan
+16850,2017,excellent,4 cylinders,gas,47500,automatic,full-size,sedan
+27750,2016,excellent,6 cylinders,gas,36000,automatic,compact,coupe
+10800,2014,excellent,4 cylinders,gas,74000,manual,compact,hatchback
+8700,2010,excellent,6 cylinders,gas,77000,automatic,mid-size,sedan
+16990,2016,excellent,4 cylinders,gas,57340,automatic,mid-size,sedan
+5250,2009,excellent,4 cylinders,gas,81219,automatic,compact,sedan
+8945,2008,excellent,4 cylinders,gas,68781,automatic,compact,sedan
+10000,2016,excellent,4 cylinders,gas,99728,automatic,compact,sedan
+13888,2017,excellent,4 cylinders,gas,54484,automatic,compact,sedan
+7750,2007,good,4 cylinders,gas,71123,automatic,mid-size,sedan
+15470,2015,good,6 cylinders,gas,74041,automatic,compact,sedan
+4450,2006,fair,6 cylinders,gas,94945,automatic,mid-size,sedan
+18491,2013,excellent,4 cylinders,gas,94988,manual,sub-compact,sedan
+12999,2013,excellent,4 cylinders,gas,89000,automatic,compact,sedan
+2700,2012,salvage,4 cylinders,gas,88176,automatic,compact,hatchback
+9400,2015,excellent,4 cylinders,gas,88432,automatic,mid-size,wagon
+11895,2016,excellent,4 cylinders,gas,79053,automatic,compact,sedan
+12500,2015,excellent,4 cylinders,gas,73000,automatic,compact,wagon
+8000,2013,good,4 cylinders,gas,75000,manual,compact,hatchback
+10988,2014,like new,4 cylinders,gas,75000,manual,full-size,hatchback
+35995,2018,excellent,6 cylinders,gas,22026,automatic,full-size,sedan
+15000,2015,like new,4 cylinders,gas,23200,automatic,compact,coupe
+11999,2011,like new,6 cylinders,gas,57353,automatic,mid-size,sedan
+8733,2013,excellent,4 cylinders,gas,71000,manual,compact,coupe
+2500,2011,good,4 cylinders,gas,94569,automatic,full-size,sedan
+26995,2014,excellent,6 cylinders,gas,50965,automatic,mid-size,coupe
+5995,2004,excellent,4 cylinders,gas,66017,automatic,full-size,sedan
+3500,2006,good,4 cylinders,gas,84000,automatic,full-size,sedan
+14998,2014,good,4 cylinders,gas,96225,automatic,compact,hatchback
+12400,2015,excellent,4 cylinders,gas,48767,automatic,mid-size,sedan
+3950,2004,good,6 cylinders,gas,92000,automatic,full-size,hatchback
+4200,2014,excellent,4 cylinders,gas,80000,automatic,compact,hatchback
+18000,2012,excellent,4 cylinders,gas,55247,automatic,mid-size,hatchback
+2500,2003,fair,4 cylinders,gas,97000,automatic,compact,hatchback
+9990,2015,excellent,4 cylinders,gas,94000,automatic,mid-size,sedan
+6500,2013,excellent,4 cylinders,gas,76580,automatic,sub-compact,hatchback
+2800,2007,fair,6 cylinders,gas,96000,automatic,full-size,sedan
+10000,2006,good,4 cylinders,gas,93800,manual,compact,sedan
+18649,2017,like new,4 cylinders,gas,57632,automatic,full-size,sedan
+13450,2017,excellent,4 cylinders,gas,58095,automatic,mid-size,sedan
+5800,2016,good,4 cylinders,gas,56000,automatic,mid-size,hatchback
+8995,2014,good,4 cylinders,gas,71829,automatic,mid-size,sedan
+7999,2010,excellent,4 cylinders,gas,64920,automatic,mid-size,sedan
+7950,2008,excellent,6 cylinders,gas,84162,automatic,full-size,sedan
+17965,2018,excellent,4 cylinders,gas,26500,automatic,mid-size,coupe
+6900,2016,excellent,4 cylinders,gas,82365,automatic,compact,hatchback
+7970,2013,good,4 cylinders,gas,98723,automatic,full-size,sedan
+5500,2005,excellent,6 cylinders,gas,71000,automatic,full-size,wagon
+7850,2005,excellent,6 cylinders,gas,91595,automatic,mid-size,sedan
+19995,2018,excellent,4 cylinders,gas,44161,automatic,mid-size,sedan
+18995,2014,excellent,6 cylinders,gas,35500,automatic,full-size,sedan
+8995,2013,excellent,4 cylinders,gas,83291,automatic,full-size,sedan
+6995,2014,excellent,4 cylinders,gas,82725,automatic,compact,sedan
+13999,2018,excellent,4 cylinders,gas,43756,automatic,mid-size,sedan
+16500,2013,good,6 cylinders,gas,83000,automatic,mid-size,sedan
+12995,2016,like new,4 cylinders,gas,61127,automatic,compact,sedan
+17900,2018,like new,4 cylinders,gas,35000,automatic,mid-size,sedan
+8950,2009,like new,4 cylinders,gas,71000,manual,compact,coupe
+10900,2018,salvage,4 cylinders,gas,37935,automatic,mid-size,sedan
+15650,2017,like new,4 cylinders,gas,34000,automatic,full-size,sedan
+7500,2012,like new,6 cylinders,gas,80000,automatic,compact,coupe
+8500,2008,excellent,6 cylinders,gas,95300,automatic,mid-size,sedan
+17500,2017,good,4 cylinders,gas,37423,automatic,full-size,sedan
+29995,2016,good,4 cylinders,gas,35652,automatic,sub-compact,coupe
+13500,2013,like new,4 cylinders,gas,51000,manual,sub-compact,hatchback
+6950,2008,excellent,6 cylinders,gas,60567,automatic,full-size,sedan
+10991,2009,excellent,6 cylinders,gas,49000,manual,full-size,sedan
+7950,2011,good,4 cylinders,gas,75000,manual,compact,hatchback
+16500,2018,excellent,4 cylinders,gas,47000,automatic,full-size,sedan
+8990,2015,good,4 cylinders,gas,94714,automatic,mid-size,sedan
+5300,2013,excellent,4 cylinders,gas,89300,manual,compact,hatchback
+11800,2013,good,6 cylinders,gas,70238,automatic,mid-size,sedan
+15895,2016,excellent,4 cylinders,gas,48483,automatic,mid-size,sedan
+29500,2016,like new,6 cylinders,gas,15332,automatic,full-size,sedan
+12995,2012,like new,4 cylinders,gas,22073,automatic,full-size,sedan
+18134,2015,like new,4 cylinders,gas,42320,automatic,mid-size,sedan
+9999,2014,excellent,4 cylinders,gas,93295,automatic,full-size,sedan
+23995,2018,like new,4 cylinders,gas,27731,automatic,full-size,sedan
+12991,2013,excellent,6 cylinders,gas,99098,automatic,full-size,sedan
+7900,2013,excellent,6 cylinders,gas,94142,automatic,full-size,sedan
+10995,2010,like new,6 cylinders,gas,90000,automatic,compact,sedan
+10450,2015,good,6 cylinders,gas,85000,automatic,mid-size,sedan
+7999,2014,excellent,4 cylinders,gas,70000,automatic,mid-size,sedan
+15500,2015,excellent,4 cylinders,gas,5497,automatic,full-size,sedan
+6795,2011,excellent,6 cylinders,gas,75879,automatic,mid-size,sedan
+11995,2016,like new,4 cylinders,gas,89508,automatic,mid-size,sedan
+15900,2019,excellent,4 cylinders,gas,25147,automatic,compact,sedan
+6200,2009,good,4 cylinders,gas,90802,automatic,compact,sedan
+15990,2010,excellent,6 cylinders,gas,38000,automatic,full-size,coupe
+3700,2011,good,6 cylinders,gas,197,automatic,full-size,sedan
+11990,2016,like new,4 cylinders,gas,62314,automatic,mid-size,hatchback
+14900,2019,like new,4 cylinders,gas,44200,automatic,compact,sedan
+7000,2014,good,4 cylinders,gas,99000,automatic,full-size,sedan
+8995,2017,like new,4 cylinders,gas,96158,automatic,mid-size,sedan
+21000,2018,excellent,4 cylinders,gas,35800,automatic,full-size,sedan
+16000,2018,excellent,4 cylinders,gas,34481,automatic,compact,sedan
+13995,2017,like new,4 cylinders,gas,33328,automatic,mid-size,sedan
+19999,2018,like new,4 cylinders,gas,46379,automatic,mid-size,sedan
+19500,2017,excellent,6 cylinders,gas,79264,automatic,mid-size,sedan
+18134,2015,like new,4 cylinders,gas,42320,automatic,mid-size,sedan
+16450,2017,excellent,4 cylinders,gas,63851,automatic,mid-size,sedan
+19499,2014,excellent,6 cylinders,gas,76518,automatic,full-size,sedan
+4500,2007,excellent,4 cylinders,gas,89000,automatic,full-size,sedan
+5998,2012,excellent,4 cylinders,gas,93000,automatic,compact,sedan
+2500,2016,like new,4 cylinders,gas,39001,automatic,mid-size,hatchback
+9677,2013,excellent,4 cylinders,gas,97456,automatic,full-size,sedan
+13750,2015,excellent,4 cylinders,gas,86000,automatic,full-size,sedan
+9999,2013,excellent,4 cylinders,gas,56677,automatic,compact,sedan
+19995,2019,like new,4 cylinders,gas,36000,automatic,compact,hatchback
+10995,2014,excellent,4 cylinders,gas,94146,automatic,compact,sedan
+17799,2017,excellent,4 cylinders,gas,22813,automatic,full-size,sedan
+12995,2015,like new,6 cylinders,gas,42000,automatic,full-size,sedan
+11450,2015,good,6 cylinders,gas,88000,automatic,mid-size,sedan
+9200,2010,excellent,6 cylinders,gas,56000,automatic,full-size,sedan
+17800,2017,like new,6 cylinders,gas,71300,automatic,full-size,sedan
+6950,2014,excellent,4 cylinders,gas,87500,automatic,mid-size,hatchback
+9498,2016,good,4 cylinders,gas,90900,automatic,full-size,sedan
+12995,2015,excellent,4 cylinders,gas,93000,automatic,mid-size,sedan
+4850,2009,excellent,6 cylinders,gas,77000,automatic,mid-size,sedan
+11895,2014,excellent,4 cylinders,gas,60291,automatic,mid-size,hatchback
+7499,2005,excellent,6 cylinders,gas,99696,automatic,full-size,sedan
+15995,2018,excellent,4 cylinders,gas,33653,automatic,mid-size,sedan
+199,2015,excellent,4 cylinders,gas,72620,automatic,full-size,sedan
+10500,2016,like new,4 cylinders,gas,58000,automatic,mid-size,sedan
+20500,2014,like new,6 cylinders,gas,35000,automatic,full-size,sedan
+21882,2019,like new,4 cylinders,gas,42679,manual,full-size,sedan
+1500,2018,like new,6 cylinders,gas,25857,automatic,full-size,sedan
+8425,2016,good,4 cylinders,gas,47000,automatic,mid-size,sedan
+100,2017,excellent,4 cylinders,gas,60192,automatic,compact,hatchback
+11250,2016,excellent,4 cylinders,gas,72000,automatic,mid-size,sedan
+9500,2013,good,4 cylinders,gas,99700,automatic,mid-size,sedan
+1000,2020,like new,4 cylinders,gas,20457,automatic,full-size,sedan
+15995,2017,good,4 cylinders,gas,43321,automatic,compact,sedan
+6999,2014,good,4 cylinders,gas,75000,automatic,mid-size,hatchback
+8850,2004,excellent,6 cylinders,gas,68000,automatic,full-size,sedan
+35877,2018,like new,4 cylinders,gas,32417,automatic,compact,coupe
+5999,2010,good,4 cylinders,gas,78000,automatic,mid-size,sedan
+21950,2018,like new,4 cylinders,gas,5000,automatic,compact,sedan
+12995,2013,like new,4 cylinders,gas,25355,automatic,full-size,sedan
+17000,2017,excellent,4 cylinders,gas,36000,automatic,mid-size,sedan
+4500,2008,excellent,4 cylinders,gas,97000,automatic,sub-compact,sedan
+21000,2017,excellent,4 cylinders,gas,47040,automatic,mid-size,sedan
+8450,2013,excellent,4 cylinders,gas,47999,automatic,full-size,coupe
+6800,2013,like new,4 cylinders,gas,33012,automatic,mid-size,sedan
+159,2021,new,4 cylinders,gas,14,automatic,full-size,sedan
+32000,2013,like new,6 cylinders,gas,39000,automatic,mid-size,wagon
+8750,2013,excellent,4 cylinders,gas,81300,automatic,compact,hatchback
+12995,2012,excellent,4 cylinders,diesel,67000,automatic,mid-size,sedan
+13750,2020,like new,4 cylinders,gas,381,automatic,compact,hatchback
+2695,2005,fair,4 cylinders,gas,14085,automatic,mid-size,coupe
+13890,2016,like new,4 cylinders,gas,92430,automatic,full-size,sedan
+7950,2015,good,4 cylinders,gas,89000,automatic,mid-size,sedan
+30995,2017,excellent,4 cylinders,gas,23715,automatic,mid-size,sedan
+11000,2011,excellent,6 cylinders,gas,93700,automatic,mid-size,sedan
+11500,2016,excellent,4 cylinders,gas,36750,automatic,compact,hatchback
+12598,2016,excellent,4 cylinders,gas,61701,automatic,compact,hatchback
+7900,2014,good,4 cylinders,gas,99000,automatic,compact,sedan
+17988,2017,excellent,4 cylinders,gas,43759,manual,sub-compact,hatchback
+9000,2013,good,4 cylinders,gas,93788,automatic,mid-size,sedan
+30000,2018,excellent,6 cylinders,gas,32475,automatic,mid-size,coupe
+5891,2013,excellent,4 cylinders,gas,41958,automatic,sub-compact,sedan
+18450,2014,excellent,4 cylinders,gas,45000,automatic,mid-size,sedan
+1600,2004,fair,4 cylinders,gas,87000,automatic,full-size,sedan
+4500,2011,excellent,4 cylinders,gas,90000,automatic,compact,coupe
+14950,2014,excellent,4 cylinders,gas,84858,automatic,compact,sedan
+13000,2010,excellent,6 cylinders,gas,85000,automatic,full-size,sedan
+6999,2014,good,4 cylinders,gas,75000,automatic,mid-size,hatchback
+14700,2017,excellent,4 cylinders,gas,35880,automatic,mid-size,sedan
+23000,2020,like new,4 cylinders,gas,24505,automatic,mid-size,sedan
+13900,2007,like new,6 cylinders,gas,34000,automatic,mid-size,sedan
+10000,2016,excellent,4 cylinders,gas,99728,automatic,compact,sedan
+8500,2009,excellent,4 cylinders,gas,64890,automatic,mid-size,sedan
+6900,2015,excellent,4 cylinders,gas,70000,automatic,compact,sedan
+11900,2016,good,4 cylinders,gas,57500,automatic,full-size,sedan
+8400,2018,excellent,4 cylinders,gas,44000,automatic,compact,sedan
+10495,2011,like new,4 cylinders,gas,83726,automatic,full-size,hatchback
+5000,2010,excellent,4 cylinders,gas,98316,automatic,mid-size,sedan
+8499,2015,excellent,4 cylinders,gas,48000,automatic,full-size,sedan
+6700,2006,like new,6 cylinders,gas,79000,automatic,mid-size,sedan
+9750,2010,excellent,4 cylinders,gas,62000,automatic,full-size,sedan
+4100,2006,like new,4 cylinders,gas,58000,automatic,full-size,sedan
+4900,2007,excellent,4 cylinders,gas,63158,automatic,mid-size,sedan
+15888,2014,good,6 cylinders,gas,44427,manual,compact,coupe
+6500,2014,like new,4 cylinders,gas,92000,automatic,compact,sedan
+16800,2015,excellent,4 cylinders,gas,30500,automatic,full-size,sedan
+26500,2016,excellent,6 cylinders,gas,28328,automatic,mid-size,sedan
+7999,2014,excellent,4 cylinders,gas,41900,automatic,full-size,sedan
+6800,2015,excellent,4 cylinders,gas,59100,automatic,compact,sedan
+8999,2008,like new,4 cylinders,gas,66000,automatic,compact,sedan
+12500,2012,like new,6 cylinders,gas,75553,automatic,full-size,sedan
+15995,2018,like new,4 cylinders,gas,21238,automatic,compact,sedan
+21995,2017,like new,4 cylinders,gas,22000,automatic,compact,sedan
+16995,2018,like new,4 cylinders,gas,17752,automatic,full-size,sedan
+4500,2003,excellent,6 cylinders,gas,46633,automatic,full-size,sedan
+10499,2013,excellent,4 cylinders,gas,73011,automatic,mid-size,sedan
+10490,2015,excellent,4 cylinders,gas,57320,automatic,mid-size,sedan
+18995,2015,excellent,4 cylinders,gas,82224,manual,compact,coupe
+20900,2019,new,4 cylinders,gas,49,automatic,mid-size,sedan
+8950,2018,excellent,4 cylinders,gas,66750,automatic,mid-size,sedan
+9750,2007,excellent,6 cylinders,gas,34351,automatic,mid-size,sedan
+12495,2015,excellent,4 cylinders,gas,82000,manual,compact,hatchback
+7995,2015,like new,4 cylinders,gas,87250,automatic,sub-compact,hatchback
+9200,2015,excellent,4 cylinders,gas,91000,automatic,mid-size,sedan
+199,2016,like new,6 cylinders,gas,60045,automatic,full-size,sedan
+19995,2015,excellent,6 cylinders,gas,60000,automatic,full-size,sedan
+20000,2015,excellent,4 cylinders,gas,72171,automatic,mid-size,coupe
+2500,2002,good,4 cylinders,gas,172,manual,compact,hatchback
+7995,2013,good,4 cylinders,gas,70990,automatic,mid-size,sedan
+14995,2016,like new,4 cylinders,gas,42000,automatic,compact,hatchback
+1200,2013,excellent,4 cylinders,gas,69000,automatic,full-size,sedan
+27995,2017,good,4 cylinders,gas,50194,automatic,mid-size,sedan
+6995,2014,excellent,4 cylinders,gas,77682,automatic,full-size,sedan
+7500,2013,excellent,4 cylinders,gas,72,manual,compact,hatchback
+13000,2017,good,4 cylinders,gas,70000,automatic,mid-size,sedan
+24900,2018,excellent,4 cylinders,gas,24338,automatic,mid-size,sedan
+15900,2018,excellent,4 cylinders,gas,24000,automatic,mid-size,sedan
+15500,2019,excellent,6 cylinders,gas,2977,automatic,full-size,sedan
+25999,2016,like new,4 cylinders,gas,56000,automatic,mid-size,sedan
+13350,2009,excellent,6 cylinders,gas,34347,automatic,mid-size,sedan
+15995,2014,like new,4 cylinders,gas,54609,automatic,full-size,sedan
+1999,2008,excellent,4 cylinders,gas,56768,automatic,compact,sedan
+9995,2015,excellent,4 cylinders,gas,47720,automatic,mid-size,sedan
+31900,2015,excellent,6 cylinders,gas,32841,automatic,compact,coupe
+14950,2015,excellent,6 cylinders,gas,69292,automatic,full-size,coupe
+23995,2017,like new,4 cylinders,gas,23962,automatic,compact,hatchback
+13299,2016,excellent,6 cylinders,gas,85943,automatic,compact,sedan
+26370,2007,excellent,6 cylinders,gas,49847,automatic,mid-size,coupe
+8977,2014,excellent,6 cylinders,gas,86900,automatic,mid-size,sedan
+15998,2014,like new,4 cylinders,gas,49721,automatic,mid-size,sedan
+16500,2013,excellent,6 cylinders,gas,78800,automatic,mid-size,sedan
+9000,2015,excellent,4 cylinders,gas,45000,automatic,compact,hatchback
+8800,2016,good,4 cylinders,gas,68125,automatic,mid-size,sedan
+299,2014,like new,4 cylinders,gas,84605,automatic,mid-size,sedan
+7950,2009,good,4 cylinders,gas,46000,automatic,mid-size,sedan
+2995,2006,fair,6 cylinders,gas,88565,automatic,full-size,sedan
+8999,2012,good,4 cylinders,gas,79593,automatic,sub-compact,hatchback
+10495,2015,like new,4 cylinders,gas,38336,automatic,mid-size,sedan
+1695,2009,excellent,4 cylinders,gas,13600,automatic,compact,sedan
+14995,2014,excellent,4 cylinders,gas,84460,automatic,compact,sedan
+4500,2013,good,4 cylinders,gas,61085,manual,compact,sedan
+22000,2017,excellent,6 cylinders,gas,67000,automatic,mid-size,coupe
+10890,2009,good,4 cylinders,gas,82507,automatic,mid-size,coupe
+24995,2017,excellent,4 cylinders,gas,17532,manual,mid-size,coupe
+9800,2010,excellent,4 cylinders,gas,48590,automatic,mid-size,sedan
+9250,2015,like new,4 cylinders,gas,87000,automatic,mid-size,sedan
+199,2015,excellent,4 cylinders,gas,72620,automatic,full-size,sedan
+10249,2014,excellent,4 cylinders,gas,76000,automatic,mid-size,sedan
+12450,2012,excellent,4 cylinders,gas,76035,automatic,mid-size,coupe
+10995,2010,good,6 cylinders,gas,51000,automatic,full-size,sedan
+8995,2014,like new,4 cylinders,gas,97069,automatic,mid-size,sedan
+8995,2012,excellent,4 cylinders,gas,91311,automatic,compact,hatchback
+8000,2006,excellent,6 cylinders,gas,89500,automatic,mid-size,sedan
+9995,2016,excellent,4 cylinders,gas,94000,automatic,full-size,sedan
+14950,2015,excellent,4 cylinders,gas,55500,automatic,mid-size,sedan
+8000,2012,excellent,4 cylinders,gas,91230,automatic,compact,wagon
+20900,2014,excellent,4 cylinders,gas,49514,automatic,mid-size,coupe
+5000,2010,good,4 cylinders,gas,82000,automatic,mid-size,sedan
+1500,2012,good,6 cylinders,gas,99971,automatic,full-size,sedan
+5900,2011,excellent,4 cylinders,gas,73000,automatic,full-size,wagon
+11299,2010,like new,6 cylinders,gas,91107,automatic,compact,sedan
+1,2015,excellent,6 cylinders,gas,23391,manual,mid-size,coupe
+10500,2014,excellent,4 cylinders,diesel,95000,automatic,mid-size,sedan
+3495,2008,excellent,4 cylinders,gas,83235,manual,sub-compact,sedan
+8950,2016,excellent,4 cylinders,gas,53433,automatic,sub-compact,sedan
+9999,2011,excellent,4 cylinders,gas,48764,automatic,mid-size,sedan
+10500,2013,new,4 cylinders,gas,65000,automatic,mid-size,sedan
+4999,2014,good,4 cylinders,gas,87720,automatic,compact,sedan
+1,2014,excellent,4 cylinders,gas,77813,automatic,mid-size,coupe
+17100,2019,excellent,4 cylinders,gas,36819,automatic,compact,sedan
+8495,2010,excellent,6 cylinders,gas,99999,automatic,full-size,sedan
+8500,2017,excellent,4 cylinders,gas,66000,automatic,mid-size,sedan
+9,2006,excellent,6 cylinders,gas,93000,automatic,compact,coupe
+11950,2015,excellent,4 cylinders,gas,99999,automatic,mid-size,sedan
+23423,2019,excellent,4 cylinders,gas,10346,automatic,compact,sedan
+12999,2012,excellent,6 cylinders,gas,73661,automatic,full-size,coupe
+14900,2014,excellent,6 cylinders,gas,49000,automatic,full-size,sedan
+13915,2011,excellent,6 cylinders,gas,64979,automatic,mid-size,sedan
+10000,2011,like new,4 cylinders,diesel,71000,automatic,full-size,hatchback
+1,2014,excellent,4 cylinders,gas,77813,automatic,mid-size,coupe
+11900,2013,excellent,4 cylinders,gas,61570,automatic,mid-size,sedan
+15995,2014,excellent,4 cylinders,gas,77557,automatic,full-size,sedan
+18500,2020,like new,4 cylinders,gas,22000,automatic,mid-size,sedan
+12995,2014,excellent,4 cylinders,gas,63264,automatic,mid-size,sedan
+21995,2019,excellent,6 cylinders,gas,22697,automatic,full-size,sedan
+15599,2014,excellent,4 cylinders,gas,75922,automatic,full-size,sedan
+12900,2018,like new,4 cylinders,gas,30000,automatic,full-size,sedan
+1500,2014,excellent,4 cylinders,gas,31000,automatic,mid-size,sedan
+17948,2017,like new,4 cylinders,gas,31000,automatic,full-size,sedan
+7200,2010,good,4 cylinders,gas,58300,automatic,compact,sedan
+12000,2013,excellent,4 cylinders,gas,69009,automatic,compact,sedan
+21893,2019,like new,4 cylinders,gas,34193,automatic,full-size,sedan
+9495,2010,excellent,6 cylinders,gas,99000,automatic,mid-size,sedan
+21968,2018,like new,4 cylinders,gas,15551,automatic,mid-size,sedan
+13995,2012,like new,6 cylinders,gas,99225,automatic,mid-size,sedan
+14999,2014,good,6 cylinders,gas,57908,automatic,full-size,sedan
+21995,2017,excellent,4 cylinders,gas,64431,automatic,mid-size,sedan
+9750,2007,excellent,6 cylinders,gas,34351,automatic,mid-size,sedan
+8999,2015,like new,4 cylinders,gas,94831,automatic,sub-compact,sedan
+10900,2015,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+4699,2009,excellent,4 cylinders,gas,164,automatic,mid-size,sedan
+9999,2010,like new,6 cylinders,gas,99132,automatic,full-size,sedan
+299,2011,like new,4 cylinders,gas,96000,automatic,mid-size,sedan
+8999,2011,good,4 cylinders,gas,89469,automatic,mid-size,sedan
+12900,2013,excellent,4 cylinders,gas,76320,automatic,mid-size,sedan
+12800,2013,like new,4 cylinders,diesel,67000,automatic,mid-size,hatchback
+8900,2018,excellent,4 cylinders,gas,73000,automatic,mid-size,hatchback
+1500,2016,excellent,4 cylinders,gas,92211,automatic,compact,sedan
+8490,2008,excellent,6 cylinders,gas,98000,automatic,mid-size,sedan
+18500,2015,like new,4 cylinders,gas,48393,automatic,sub-compact,coupe
+6800,2006,good,6 cylinders,gas,43000,automatic,mid-size,sedan
+2499,2015,excellent,6 cylinders,gas,43854,automatic,full-size,sedan
+16900,2018,excellent,4 cylinders,gas,34788,automatic,compact,sedan
+7490,2007,excellent,4 cylinders,gas,49000,automatic,mid-size,sedan
+10500,2013,excellent,4 cylinders,gas,50700,manual,compact,hatchback
+24000,2017,excellent,4 cylinders,gas,33300,automatic,mid-size,coupe
+14700,2016,like new,4 cylinders,gas,9533,automatic,full-size,sedan
+8000,2014,excellent,4 cylinders,gas,96423,automatic,mid-size,hatchback
+13000,2011,excellent,6 cylinders,gas,91000,automatic,sub-compact,coupe
+8500,2013,excellent,4 cylinders,gas,97651,automatic,mid-size,sedan
+11988,2011,good,6 cylinders,gas,73045,automatic,compact,sedan
+12500,2016,like new,4 cylinders,gas,70361,automatic,compact,sedan
+9995,2015,like new,6 cylinders,gas,91039,automatic,mid-size,sedan
+22998,2015,good,6 cylinders,gas,96665,automatic,mid-size,coupe
+7950,2016,excellent,4 cylinders,gas,61000,automatic,compact,sedan
+14695,2015,like new,4 cylinders,gas,88000,automatic,full-size,coupe
+8700,2014,like new,4 cylinders,gas,44000,automatic,mid-size,sedan
+32995,2017,excellent,4 cylinders,gas,49042,automatic,full-size,wagon
+6500,2008,excellent,6 cylinders,gas,57000,automatic,mid-size,sedan
+3600,2001,excellent,6 cylinders,gas,70000,automatic,mid-size,sedan
+8499,2011,good,4 cylinders,gas,86426,manual,mid-size,coupe
+12999,2015,excellent,4 cylinders,gas,42000,automatic,compact,hatchback
+7995,2019,excellent,4 cylinders,gas,27000,automatic,mid-size,sedan
+8249,2016,good,4 cylinders,gas,62463,automatic,compact,sedan
+7995,2009,good,6 cylinders,gas,82000,automatic,mid-size,sedan
+27995,2018,excellent,6 cylinders,gas,22300,automatic,mid-size,coupe
+7495,2012,good,4 cylinders,gas,98990,automatic,compact,sedan
+5300,2009,like new,4 cylinders,gas,70231,automatic,full-size,sedan
+13995,2016,excellent,4 cylinders,gas,55205,automatic,mid-size,sedan
+8500,2006,good,6 cylinders,gas,80255,automatic,full-size,wagon
+12400,2018,excellent,4 cylinders,gas,70988,automatic,compact,sedan
+4500,2012,excellent,4 cylinders,gas,75137,automatic,mid-size,sedan
+21500,2018,like new,4 cylinders,gas,5600,automatic,mid-size,wagon
+14999,2013,excellent,4 cylinders,gas,93839,automatic,full-size,sedan
+24995,2017,like new,6 cylinders,gas,45318,automatic,mid-size,coupe
+12000,2004,like new,6 cylinders,gas,42934,automatic,mid-size,coupe
+10500,2016,like new,4 cylinders,gas,99000,automatic,full-size,sedan
+9350,2016,good,4 cylinders,gas,66000,automatic,compact,sedan
+9800,2011,excellent,4 cylinders,gas,21400,automatic,full-size,sedan
+8900,2015,excellent,4 cylinders,gas,35000,automatic,mid-size,sedan
+11500,2016,excellent,4 cylinders,gas,92260,automatic,full-size,sedan
+10000,2011,excellent,6 cylinders,gas,35000,automatic,full-size,sedan
+4650,2010,excellent,4 cylinders,gas,86000,automatic,compact,sedan
+14450,2013,excellent,4 cylinders,gas,29000,automatic,compact,sedan
+12000,2018,excellent,4 cylinders,gas,29000,automatic,full-size,sedan
+8700,2016,excellent,4 cylinders,gas,63103,automatic,compact,sedan
+12999,2011,excellent,6 cylinders,gas,95710,automatic,compact,sedan
+15000,2014,excellent,4 cylinders,gas,65107,automatic,mid-size,sedan
+9599,2009,excellent,6 cylinders,gas,71500,automatic,compact,coupe
+13495,2018,excellent,4 cylinders,gas,21404,automatic,compact,sedan
+11995,2018,excellent,4 cylinders,gas,71584,automatic,full-size,sedan
+7999,2007,good,4 cylinders,gas,88188,automatic,mid-size,sedan
+31000,2018,like new,4 cylinders,gas,37943,automatic,mid-size,sedan
+15900,2017,like new,4 cylinders,gas,25000,automatic,compact,hatchback
+9600,2017,like new,4 cylinders,gas,75000,automatic,compact,sedan
+8995,2014,like new,4 cylinders,gas,51590,automatic,mid-size,sedan
+7500,2013,excellent,4 cylinders,gas,70740,automatic,full-size,sedan
+12995,2015,good,4 cylinders,gas,70643,automatic,compact,sedan
+14000,2013,excellent,4 cylinders,gas,47111,automatic,full-size,sedan
+323,2016,new,6 cylinders,gas,56000,automatic,full-size,sedan
+3400,2002,excellent,6 cylinders,gas,44231,automatic,mid-size,sedan
+2500,2009,good,4 cylinders,gas,65000,automatic,sub-compact,sedan
+6900,2013,good,4 cylinders,gas,94000,automatic,sub-compact,sedan
+8800,2012,excellent,4 cylinders,gas,88000,automatic,mid-size,sedan
+7895,2007,like new,4 cylinders,gas,74000,automatic,full-size,sedan
+14600,2019,new,4 cylinders,gas,18000,automatic,compact,sedan
+9495,2014,excellent,4 cylinders,gas,91336,automatic,compact,sedan
+16995,2017,like new,4 cylinders,gas,60680,automatic,mid-size,sedan
+13900,2018,like new,4 cylinders,gas,5900,automatic,compact,hatchback
+9000,2009,good,4 cylinders,gas,79650,automatic,mid-size,sedan
+33000,2017,like new,6 cylinders,gas,30000,automatic,full-size,sedan
+7000,2014,like new,4 cylinders,gas,47010,automatic,full-size,sedan
+14995,2014,excellent,4 cylinders,gas,42586,automatic,mid-size,coupe
+4450,2006,fair,6 cylinders,gas,94945,automatic,mid-size,sedan
+12500,2011,excellent,6 cylinders,gas,49400,automatic,compact,sedan
+8500,2006,like new,6 cylinders,gas,90122,automatic,mid-size,coupe
+9500,2013,like new,4 cylinders,gas,92225,automatic,compact,sedan
+11000,2009,excellent,4 cylinders,gas,53679,automatic,mid-size,wagon
+7500,2012,excellent,4 cylinders,gas,58000,automatic,full-size,sedan
+9995,2012,like new,6 cylinders,gas,97000,automatic,mid-size,sedan
+8999,2010,excellent,6 cylinders,gas,75483,automatic,full-size,sedan
+12995,2016,like new,4 cylinders,gas,61127,automatic,compact,sedan
+7995,2010,like new,4 cylinders,gas,97327,automatic,mid-size,sedan
+9990,2014,excellent,4 cylinders,gas,90255,automatic,compact,hatchback
+13999,2017,excellent,4 cylinders,gas,40312,automatic,mid-size,sedan
+9900,2014,good,6 cylinders,gas,67000,automatic,full-size,sedan
+13763,2013,like new,6 cylinders,gas,36959,automatic,full-size,sedan
+4950,2010,excellent,4 cylinders,gas,67000,automatic,mid-size,sedan
+4500,2006,excellent,4 cylinders,gas,92000,automatic,full-size,sedan
+7900,2011,excellent,4 cylinders,gas,86205,automatic,mid-size,sedan
+3499,2007,good,4 cylinders,gas,61000,automatic,compact,sedan
+26500,2018,excellent,6 cylinders,gas,25000,automatic,mid-size,coupe
+6995,2009,excellent,6 cylinders,gas,66000,automatic,mid-size,sedan
+15500,2017,like new,6 cylinders,gas,21000,automatic,full-size,sedan
+9140,2014,excellent,4 cylinders,gas,71500,manual,compact,hatchback
+8950,2016,excellent,4 cylinders,gas,51000,automatic,full-size,sedan
+12000,2010,good,6 cylinders,diesel,82000,automatic,mid-size,sedan
+14995,2013,like new,4 cylinders,diesel,25000,automatic,mid-size,sedan
+4999,2008,excellent,4 cylinders,gas,68000,automatic,full-size,coupe
+7950,2016,like new,4 cylinders,gas,62388,automatic,compact,sedan
+22999,2014,excellent,4 cylinders,gas,57538,automatic,mid-size,sedan
+6499,2013,excellent,4 cylinders,gas,86710,automatic,compact,sedan
+9500,2019,new,4 cylinders,gas,36000,automatic,compact,hatchback
+8995,2013,excellent,4 cylinders,gas,93000,automatic,mid-size,sedan
+5995,2012,good,4 cylinders,gas,73308,automatic,compact,sedan
+26995,2017,excellent,4 cylinders,gas,27216,automatic,compact,sedan
+6000,2008,excellent,6 cylinders,gas,91000,automatic,full-size,sedan
+9950,2016,excellent,4 cylinders,gas,15000,automatic,mid-size,sedan
+11500,2016,good,4 cylinders,gas,37970,automatic,compact,sedan
+215,2017,excellent,4 cylinders,gas,98000,automatic,full-size,sedan
+18995,2016,excellent,4 cylinders,gas,45946,automatic,mid-size,sedan
+6500,2016,good,4 cylinders,gas,87000,automatic,mid-size,coupe
+24995,2017,excellent,6 cylinders,gas,36700,automatic,full-size,coupe
+25000,2011,like new,6 cylinders,gas,80000,automatic,full-size,sedan
+17800,2017,good,4 cylinders,gas,61200,automatic,compact,sedan
+7999,2013,excellent,4 cylinders,gas,89000,automatic,compact,sedan
+9800,2013,excellent,6 cylinders,gas,98500,automatic,full-size,sedan
+22995,2020,like new,4 cylinders,gas,5303,automatic,compact,sedan
+3700,2006,good,4 cylinders,gas,73000,automatic,compact,hatchback
+12475,2016,excellent,4 cylinders,gas,23010,automatic,mid-size,sedan
+7000,2010,good,6 cylinders,gas,63752,automatic,mid-size,sedan
+10950,2006,excellent,4 cylinders,gas,86000,automatic,mid-size,hatchback
+7950,2006,excellent,6 cylinders,gas,79875,automatic,mid-size,sedan
+12498,2011,excellent,6 cylinders,gas,82505,automatic,mid-size,coupe
+18988,2015,good,4 cylinders,gas,60437,automatic,compact,wagon
+8900,2011,like new,6 cylinders,gas,45346,automatic,full-size,sedan
+17995,2013,like new,6 cylinders,gas,65349,automatic,full-size,sedan
+21000,2013,good,4 cylinders,gas,58600,manual,mid-size,sedan
+7000,2012,good,4 cylinders,gas,89769,automatic,compact,hatchback
+27900,2018,excellent,4 cylinders,gas,42300,automatic,mid-size,sedan
+8995,2014,excellent,4 cylinders,gas,91819,automatic,compact,sedan
+13400,2013,excellent,6 cylinders,gas,85000,automatic,mid-size,coupe
+7800,2011,excellent,4 cylinders,gas,85049,automatic,compact,sedan
+21000,2013,like new,6 cylinders,gas,59920,automatic,mid-size,sedan
+2500,2004,good,4 cylinders,gas,95179,manual,compact,sedan
+1,2014,excellent,4 cylinders,gas,77813,automatic,mid-size,coupe
+9994,2011,excellent,6 cylinders,gas,60292,automatic,mid-size,sedan
+10500,2010,good,4 cylinders,gas,76300,manual,full-size,coupe
+15400,2015,excellent,6 cylinders,gas,80000,automatic,mid-size,sedan
+18200,2016,like new,4 cylinders,gas,60700,automatic,mid-size,sedan
+8800,2009,excellent,6 cylinders,gas,96068,automatic,full-size,sedan
+11990,2011,like new,4 cylinders,diesel,70000,automatic,mid-size,sedan
+32995,2017,excellent,4 cylinders,gas,49042,automatic,full-size,wagon
+31995,2018,excellent,4 cylinders,gas,39556,automatic,full-size,sedan
+18600,2018,excellent,4 cylinders,gas,63000,automatic,mid-size,wagon
+21995,2016,excellent,6 cylinders,gas,28901,automatic,mid-size,sedan
+22981,2019,like new,4 cylinders,gas,4200,automatic,mid-size,sedan
+19991,2018,excellent,4 cylinders,gas,53330,manual,compact,sedan
+500,2013,like new,4 cylinders,gas,44995,automatic,full-size,sedan
+11750,2015,excellent,4 cylinders,gas,56377,automatic,full-size,sedan
+15980,2015,excellent,4 cylinders,gas,61910,automatic,compact,sedan
+12988,2015,excellent,4 cylinders,gas,63564,automatic,mid-size,wagon
+5795,2010,new,4 cylinders,gas,89000,automatic,mid-size,sedan
+3700,2005,good,6 cylinders,gas,94228,automatic,full-size,sedan
+9399,2011,like new,6 cylinders,gas,96000,automatic,compact,sedan
+12499,2012,excellent,4 cylinders,gas,95253,automatic,mid-size,wagon
+8700,2009,excellent,6 cylinders,gas,33000,automatic,full-size,sedan
+15900,2015,excellent,4 cylinders,gas,93071,automatic,full-size,coupe
+19999,2017,like new,4 cylinders,gas,21000,automatic,mid-size,sedan
+13499,2014,excellent,4 cylinders,diesel,91702,automatic,full-size,sedan
+21900,2018,like new,6 cylinders,gas,44569,automatic,full-size,sedan
+8699,2015,like new,4 cylinders,gas,91688,automatic,compact,sedan
+7999,2015,excellent,4 cylinders,gas,86000,automatic,mid-size,sedan
+27900,2017,like new,4 cylinders,gas,38000,automatic,mid-size,hatchback
+10495,2013,good,4 cylinders,gas,20846,automatic,mid-size,coupe
+7995,2017,excellent,4 cylinders,gas,31691,automatic,compact,sedan
+7500,2012,like new,6 cylinders,gas,80000,automatic,compact,coupe
+21250,2012,like new,6 cylinders,gas,28004,automatic,full-size,sedan
+4500,2006,good,6 cylinders,gas,93800,automatic,mid-size,sedan
+11490,2013,excellent,4 cylinders,gas,63730,automatic,full-size,coupe
+9300,2012,excellent,6 cylinders,gas,91000,automatic,mid-size,sedan
+3995,2005,like new,4 cylinders,gas,81214,automatic,mid-size,hatchback
+8750,2015,excellent,4 cylinders,gas,78000,automatic,mid-size,sedan
+16850,2017,excellent,4 cylinders,gas,16978,automatic,mid-size,hatchback
+10999,2016,excellent,4 cylinders,gas,72734,automatic,compact,sedan
+11999,2014,excellent,4 cylinders,gas,8000,manual,mid-size,sedan
+7999,2013,excellent,4 cylinders,gas,89000,automatic,compact,sedan
+17550,2019,like new,4 cylinders,gas,10700,manual,compact,wagon
+9990,2011,excellent,6 cylinders,gas,80036,automatic,mid-size,sedan
+7900,2012,excellent,6 cylinders,gas,90395,automatic,mid-size,sedan
+7995,2008,good,6 cylinders,gas,97409,automatic,full-size,sedan
+22500,2016,like new,6 cylinders,gas,60500,automatic,full-size,sedan
+12900,2016,good,4 cylinders,gas,87815,automatic,mid-size,sedan
+17495,2016,excellent,4 cylinders,gas,55652,automatic,mid-size,sedan
+24995,2017,like new,6 cylinders,gas,45318,automatic,mid-size,coupe
+5490,2012,excellent,4 cylinders,gas,99756,automatic,full-size,sedan
+13950,2015,excellent,4 cylinders,gas,83935,automatic,compact,sedan
+18000,2016,excellent,4 cylinders,gas,68000,manual,mid-size,hatchback
+4900,2008,excellent,4 cylinders,gas,84652,automatic,compact,sedan
+9150,2018,excellent,4 cylinders,gas,69970,automatic,full-size,sedan
+3000,2006,excellent,4 cylinders,gas,171,automatic,full-size,sedan
+9500,2013,excellent,4 cylinders,gas,61500,automatic,mid-size,sedan
+1900,2015,good,4 cylinders,gas,61000,automatic,mid-size,sedan
+7950,2014,excellent,4 cylinders,gas,51000,automatic,mid-size,sedan
+17991,2016,good,6 cylinders,gas,95965,automatic,mid-size,sedan
+16995,2017,excellent,4 cylinders,gas,35619,automatic,mid-size,sedan
+22900,2013,excellent,6 cylinders,gas,72277,automatic,full-size,sedan
+5000,2008,excellent,4 cylinders,gas,77660,automatic,mid-size,hatchback
+6990,2013,excellent,4 cylinders,gas,83160,automatic,compact,sedan
+8988,2014,excellent,4 cylinders,gas,87500,automatic,mid-size,sedan
+7295,2018,good,4 cylinders,gas,57086,automatic,compact,sedan
+13200,2014,like new,4 cylinders,gas,22420,automatic,mid-size,sedan
+6500,2013,excellent,4 cylinders,gas,78344,automatic,full-size,sedan
+16999,2017,excellent,4 cylinders,gas,71910,automatic,full-size,sedan
+20988,2015,excellent,6 cylinders,gas,46587,automatic,full-size,coupe
+8400,2009,excellent,6 cylinders,gas,64555,automatic,compact,sedan
+11288,2013,excellent,4 cylinders,gas,79017,automatic,mid-size,sedan
+15999,2018,excellent,4 cylinders,gas,36465,automatic,mid-size,sedan
+32995,2017,like new,4 cylinders,gas,89011,manual,mid-size,sedan
+10000,2013,good,6 cylinders,gas,61000,manual,full-size,coupe
+5795,2002,excellent,4 cylinders,gas,60000,automatic,mid-size,sedan
+22500,2020,like new,4 cylinders,gas,2628,automatic,mid-size,sedan
+19999,2016,good,4 cylinders,gas,41456,automatic,mid-size,coupe
+19999,2013,excellent,6 cylinders,gas,88000,automatic,mid-size,sedan
+10995,2013,excellent,4 cylinders,gas,87475,manual,sub-compact,coupe
+415,2017,excellent,4 cylinders,gas,52658,automatic,mid-size,sedan
+18900,2013,excellent,4 cylinders,gas,21342,manual,compact,coupe
+7995,2014,good,4 cylinders,gas,60000,automatic,compact,sedan
+11950,2008,excellent,4 cylinders,gas,53288,automatic,full-size,sedan
+19995,2016,like new,4 cylinders,gas,70431,automatic,compact,hatchback
+10999,2014,excellent,4 cylinders,gas,95474,automatic,full-size,sedan
+17990,2017,excellent,4 cylinders,gas,25457,automatic,mid-size,sedan
+22998,2015,good,6 cylinders,gas,96665,automatic,mid-size,coupe
+12995,2017,excellent,4 cylinders,gas,17000,automatic,sub-compact,sedan
+12999,2013,like new,4 cylinders,gas,1000,automatic,mid-size,sedan
+5495,2013,excellent,4 cylinders,gas,93000,automatic,mid-size,sedan
+11500,2012,excellent,4 cylinders,gas,95920,automatic,mid-size,sedan
+13500,2013,excellent,4 cylinders,gas,43571,automatic,compact,wagon
+15200,2013,excellent,6 cylinders,gas,93000,automatic,mid-size,sedan
+12499,2012,excellent,4 cylinders,gas,87900,automatic,compact,hatchback
+8950,2016,excellent,4 cylinders,gas,51000,automatic,compact,sedan
+15999,2014,excellent,4 cylinders,gas,69182,automatic,mid-size,sedan
+629,2016,like new,6 cylinders,gas,13686,automatic,full-size,sedan
+6200,2010,excellent,4 cylinders,gas,84000,automatic,full-size,sedan
+5500,2006,good,4 cylinders,gas,73000,automatic,full-size,sedan
+9995,2010,good,6 cylinders,gas,85486,automatic,mid-size,coupe
+9500,2008,excellent,6 cylinders,gas,62000,automatic,mid-size,sedan
+21000,2013,like new,4 cylinders,gas,47000,manual,compact,sedan
+1,2005,excellent,4 cylinders,gas,93451,automatic,mid-size,sedan
+1295,2006,excellent,4 cylinders,gas,13400,manual,compact,hatchback
+13899,2013,excellent,6 cylinders,gas,81445,automatic,full-size,sedan
+16500,2012,excellent,6 cylinders,diesel,83500,automatic,full-size,sedan
+15495,2018,excellent,4 cylinders,gas,27317,automatic,compact,wagon
+499,2017,like new,6 cylinders,gas,8800,automatic,compact,sedan
+5900,2014,excellent,4 cylinders,gas,95000,automatic,sub-compact,sedan
+21999,2018,excellent,6 cylinders,gas,54895,automatic,mid-size,sedan
+8800,2014,good,4 cylinders,gas,61778,manual,compact,sedan
+9900,2012,excellent,6 cylinders,gas,57164,automatic,mid-size,sedan
+6500,2012,good,4 cylinders,gas,78035,automatic,compact,sedan
+9995,2017,good,4 cylinders,gas,77000,automatic,mid-size,coupe
+5200,2013,good,4 cylinders,gas,55000,automatic,mid-size,sedan
+10950,2015,excellent,4 cylinders,diesel,70000,automatic,mid-size,sedan
+9900,2017,like new,4 cylinders,gas,62750,automatic,mid-size,sedan
+2800,2010,like new,4 cylinders,gas,146,automatic,compact,sedan
+9495,2009,excellent,6 cylinders,gas,85000,automatic,mid-size,coupe
+10800,2017,excellent,4 cylinders,gas,54696,automatic,compact,sedan
+21988,2015,excellent,6 cylinders,gas,52718,automatic,full-size,sedan
+13900,2019,excellent,4 cylinders,gas,20169,automatic,mid-size,sedan
+10500,2017,like new,4 cylinders,gas,79080,automatic,mid-size,sedan
+22000,2016,excellent,6 cylinders,gas,67122,automatic,full-size,hatchback
+9898,2015,like new,6 cylinders,gas,90000,automatic,full-size,sedan
+10900,2008,excellent,6 cylinders,gas,98000,automatic,full-size,sedan
+3500,2006,good,6 cylinders,gas,36000,automatic,compact,sedan
+17300,2019,excellent,4 cylinders,gas,23800,automatic,mid-size,sedan
+8995,2012,excellent,4 cylinders,gas,90468,automatic,full-size,sedan
+8522,2016,excellent,4 cylinders,gas,61421,automatic,mid-size,sedan
+13000,2016,excellent,4 cylinders,gas,61000,automatic,compact,hatchback
+10800,2011,excellent,6 cylinders,gas,85700,automatic,mid-size,sedan
+24900,2015,like new,4 cylinders,gas,48520,automatic,full-size,sedan
+8999,2012,good,4 cylinders,gas,74460,automatic,compact,hatchback
+9895,2014,like new,6 cylinders,gas,87897,automatic,full-size,sedan
+8950,2007,like new,6 cylinders,gas,77432,automatic,mid-size,sedan
+22477,2016,excellent,4 cylinders,gas,72351,manual,compact,sedan
+5000,2005,excellent,4 cylinders,gas,75000,automatic,full-size,coupe
+17500,2014,excellent,6 cylinders,gas,64894,automatic,full-size,sedan
+5300,2010,excellent,4 cylinders,gas,79,automatic,compact,wagon
+7000,2015,good,6 cylinders,gas,57000,automatic,full-size,sedan
+8900,2015,excellent,4 cylinders,gas,75273,automatic,sub-compact,sedan
+12000,2014,excellent,4 cylinders,gas,55525,automatic,full-size,sedan
+4200,2013,excellent,4 cylinders,gas,92985,manual,mid-size,sedan
+12999,2011,excellent,6 cylinders,gas,95710,automatic,compact,sedan
+15995,2013,excellent,4 cylinders,gas,97301,automatic,compact,sedan
+215,2017,excellent,4 cylinders,gas,98000,automatic,full-size,sedan
+159,2014,excellent,6 cylinders,gas,43000,automatic,compact,coupe
+16995,2018,excellent,4 cylinders,gas,23587,automatic,compact,sedan
+18999,2015,excellent,4 cylinders,gas,66566,manual,mid-size,hatchback
+14490,2019,excellent,4 cylinders,gas,28079,automatic,mid-size,sedan
+4995,2007,like new,6 cylinders,gas,91000,automatic,mid-size,sedan
+12900,2012,like new,4 cylinders,gas,56000,automatic,full-size,hatchback
+11900,2014,excellent,4 cylinders,gas,78000,automatic,full-size,sedan
+7500,2008,good,4 cylinders,gas,98800,manual,compact,hatchback
+14950,2015,excellent,6 cylinders,gas,69292,automatic,full-size,coupe
+23900,2018,excellent,4 cylinders,gas,27509,automatic,compact,sedan
+7995,2011,excellent,4 cylinders,gas,84648,automatic,full-size,sedan
+6995,2011,good,4 cylinders,gas,72337,automatic,mid-size,wagon
+11995,2015,excellent,4 cylinders,gas,60000,automatic,full-size,sedan
+16995,2018,excellent,4 cylinders,gas,17693,automatic,mid-size,sedan
+19795,2011,fair,6 cylinders,diesel,94616,automatic,mid-size,sedan
+19880,2015,excellent,6 cylinders,gas,78000,automatic,mid-size,coupe
+30000,2018,good,6 cylinders,gas,31789,manual,mid-size,coupe
+18499,2013,like new,4 cylinders,gas,46000,automatic,mid-size,sedan
+9999,2015,good,4 cylinders,gas,104,automatic,compact,sedan
+21500,2016,excellent,4 cylinders,gas,60215,automatic,mid-size,sedan
+14750,2015,excellent,6 cylinders,gas,81000,automatic,compact,coupe
+17995,2018,good,4 cylinders,gas,67000,automatic,full-size,sedan
+6500,2015,excellent,4 cylinders,gas,87000,automatic,full-size,sedan
+499,2010,excellent,6 cylinders,gas,32444,automatic,full-size,sedan
+8988,2008,excellent,6 cylinders,gas,70671,automatic,compact,sedan
+11999,2009,excellent,6 cylinders,gas,70000,automatic,full-size,sedan
+11750,2016,good,4 cylinders,gas,52050,automatic,full-size,sedan
+27995,2018,excellent,6 cylinders,gas,30457,automatic,mid-size,sedan
+4000,2013,like new,4 cylinders,gas,19877,automatic,mid-size,sedan
+16995,2003,like new,4 cylinders,gas,39800,manual,compact,coupe
+16900,2018,excellent,4 cylinders,gas,12887,automatic,compact,wagon
+11295,2013,good,4 cylinders,gas,73232,automatic,full-size,sedan
+6500,2008,excellent,4 cylinders,gas,96000,automatic,compact,hatchback
+4900,2003,good,4 cylinders,gas,89000,automatic,mid-size,hatchback
+12900,2012,good,6 cylinders,gas,77000,automatic,full-size,sedan
+6495,2013,excellent,4 cylinders,gas,99000,automatic,mid-size,sedan
+5995,2011,good,4 cylinders,gas,93000,automatic,mid-size,hatchback
+1,2009,excellent,4 cylinders,gas,62300,automatic,full-size,sedan
+7981,2014,excellent,4 cylinders,gas,85000,automatic,mid-size,sedan
+17950,2017,excellent,4 cylinders,gas,42388,automatic,mid-size,sedan
+9000,2015,excellent,4 cylinders,gas,98948,automatic,compact,sedan
+7550,2015,excellent,4 cylinders,gas,65575,automatic,mid-size,sedan
+2999,2018,excellent,4 cylinders,gas,5432,automatic,compact,sedan
+13700,2019,excellent,4 cylinders,gas,38000,automatic,mid-size,sedan
+7200,2016,excellent,4 cylinders,gas,86000,automatic,compact,sedan
+6500,2013,like new,4 cylinders,gas,89000,manual,compact,hatchback
+9995,2015,excellent,4 cylinders,gas,47720,automatic,mid-size,sedan
+7950,2014,excellent,4 cylinders,gas,50200,manual,compact,hatchback
+500,2007,good,4 cylinders,gas,18579,automatic,full-size,sedan
+8995,2004,like new,6 cylinders,gas,74000,automatic,mid-size,coupe
+5500,2015,excellent,4 cylinders,gas,55000,manual,compact,hatchback
+4300,2002,excellent,6 cylinders,gas,53000,automatic,full-size,sedan
+6995,2013,excellent,4 cylinders,gas,70833,automatic,compact,sedan
+21995,2015,excellent,4 cylinders,gas,90468,automatic,mid-size,sedan
+5995,2013,good,4 cylinders,gas,77921,manual,compact,sedan
+8300,2015,excellent,4 cylinders,gas,84600,automatic,compact,sedan
+1200,2012,good,4 cylinders,gas,90370,automatic,sub-compact,sedan
+9000,2012,good,4 cylinders,gas,99000,automatic,compact,hatchback
+7900,2011,excellent,4 cylinders,gas,82471,automatic,full-size,sedan
+9900,2015,excellent,4 cylinders,gas,88000,automatic,compact,sedan
+11995,2018,good,4 cylinders,gas,79025,manual,compact,sedan
+17960,2016,excellent,6 cylinders,gas,69800,automatic,mid-size,wagon
+19500,2019,like new,6 cylinders,gas,30152,automatic,full-size,sedan
+5998,2009,excellent,4 cylinders,gas,99000,manual,sub-compact,coupe
+2995,2013,like new,6 cylinders,gas,90525,automatic,full-size,sedan
+8499,2019,excellent,4 cylinders,gas,83400,automatic,mid-size,wagon
+7499,2005,excellent,6 cylinders,gas,99696,automatic,full-size,sedan
+15500,2018,excellent,4 cylinders,gas,38000,manual,compact,coupe
+5500,2012,excellent,4 cylinders,gas,93807,automatic,mid-size,hatchback
+17000,2016,like new,4 cylinders,gas,3877,automatic,mid-size,coupe
+16000,2015,excellent,4 cylinders,gas,41100,automatic,full-size,sedan
+5200,2001,excellent,6 cylinders,gas,72000,automatic,full-size,sedan
+8990,2012,excellent,4 cylinders,gas,90390,automatic,compact,sedan
+2850,2014,good,4 cylinders,gas,93985,automatic,compact,sedan
+9497,2010,excellent,4 cylinders,gas,80079,automatic,mid-size,hatchback
+7999,2016,good,4 cylinders,gas,66000,automatic,mid-size,sedan
+5900,2004,excellent,4 cylinders,gas,142,automatic,full-size,sedan
+7800,2003,excellent,6 cylinders,gas,68000,automatic,mid-size,sedan
+9999,2012,excellent,6 cylinders,gas,88650,automatic,mid-size,sedan
+6500,2007,excellent,4 cylinders,gas,75261,automatic,mid-size,sedan
+8000,2007,excellent,6 cylinders,gas,47300,automatic,compact,coupe
+8995,2017,salvage,4 cylinders,gas,53000,automatic,mid-size,sedan
+9400,2013,good,4 cylinders,gas,78980,automatic,full-size,coupe
+10500,2012,excellent,4 cylinders,gas,81500,manual,mid-size,sedan
+15729,2015,excellent,4 cylinders,gas,59300,automatic,compact,coupe
+10998,2012,excellent,6 cylinders,gas,99866,automatic,mid-size,sedan
+4999,2012,like new,4 cylinders,gas,73000,automatic,mid-size,sedan
+12500,2007,excellent,6 cylinders,gas,77322,automatic,mid-size,sedan
+12500,2014,excellent,4 cylinders,gas,60237,automatic,full-size,sedan
+15500,2013,excellent,6 cylinders,gas,78000,automatic,mid-size,sedan
+23995,2018,like new,4 cylinders,gas,27731,automatic,full-size,sedan
+6200,2014,excellent,6 cylinders,gas,80000,automatic,mid-size,sedan
+13900,2019,excellent,4 cylinders,gas,20169,automatic,mid-size,sedan
+6600,2012,excellent,4 cylinders,gas,83000,automatic,mid-size,sedan
+12500,2012,excellent,6 cylinders,gas,57500,automatic,mid-size,sedan
+6995,2014,excellent,4 cylinders,gas,79255,automatic,mid-size,sedan
+6400,2013,excellent,4 cylinders,gas,91000,automatic,compact,hatchback
+11950,2017,excellent,4 cylinders,gas,46248,automatic,mid-size,sedan
+9850,2010,excellent,4 cylinders,gas,51000,automatic,compact,coupe
+14895,2012,excellent,4 cylinders,gas,92899,automatic,compact,sedan
+31000,2019,like new,4 cylinders,gas,11500,automatic,mid-size,wagon
+6500,2010,like new,4 cylinders,gas,93300,automatic,mid-size,sedan
+16000,2016,like new,4 cylinders,gas,36000,automatic,mid-size,sedan
+8600,2013,excellent,4 cylinders,gas,53000,automatic,compact,coupe
+7495,2012,excellent,4 cylinders,gas,49910,automatic,sub-compact,coupe
+3500,2003,excellent,6 cylinders,gas,95400,automatic,mid-size,sedan
+8450,2012,good,4 cylinders,gas,88364,automatic,mid-size,sedan
+16995,2018,excellent,4 cylinders,gas,32363,automatic,mid-size,sedan
+9200,2009,good,6 cylinders,gas,20860,automatic,full-size,sedan
+1600,2007,fair,4 cylinders,gas,184,automatic,compact,sedan
+6995,2016,excellent,4 cylinders,gas,78224,automatic,mid-size,sedan
+8499,2013,excellent,4 cylinders,gas,95138,automatic,full-size,sedan
+9000,2009,like new,4 cylinders,gas,95200,automatic,compact,hatchback
+8995,2010,good,6 cylinders,gas,85000,automatic,full-size,sedan
+12999,2015,excellent,6 cylinders,gas,60000,automatic,full-size,coupe
+13600,2013,good,4 cylinders,gas,49000,manual,mid-size,hatchback
+6988,2003,good,4 cylinders,gas,86488,automatic,compact,hatchback
+16492,2016,excellent,6 cylinders,gas,27615,automatic,mid-size,coupe
+33500,2016,like new,4 cylinders,gas,21000,manual,compact,sedan
+21000,2008,good,4 cylinders,gas,0,manual,compact,hatchback
+14500,2012,excellent,4 cylinders,gas,71102,automatic,full-size,sedan
+1275,2006,excellent,4 cylinders,gas,13400,manual,compact,hatchback
+13400,2015,good,6 cylinders,gas,51020,automatic,full-size,sedan
+23995,2016,excellent,6 cylinders,gas,39478,automatic,full-size,coupe
+14500,2018,excellent,4 cylinders,gas,60750,automatic,compact,sedan
+4500,2012,excellent,4 cylinders,gas,95000,manual,full-size,hatchback
+5200,2006,good,6 cylinders,gas,96502,automatic,full-size,sedan
+10998,2012,excellent,6 cylinders,gas,99866,automatic,full-size,sedan
+12500,2015,good,4 cylinders,gas,99860,automatic,full-size,sedan
+9999,2015,excellent,4 cylinders,gas,50561,automatic,mid-size,sedan
+10450,2013,excellent,4 cylinders,gas,98749,automatic,compact,wagon
+7495,2014,good,4 cylinders,gas,84200,automatic,compact,sedan
+10500,2015,excellent,4 cylinders,gas,30450,automatic,full-size,sedan
+14900,2012,excellent,6 cylinders,gas,63700,automatic,mid-size,sedan
+8799,2009,excellent,4 cylinders,gas,98421,automatic,full-size,sedan
+8977,2017,excellent,4 cylinders,gas,63281,automatic,compact,sedan
+1600,2006,good,4 cylinders,gas,75000,manual,compact,hatchback
+23500,2017,excellent,4 cylinders,gas,45066,automatic,mid-size,wagon
+12000,2016,like new,4 cylinders,gas,44500,automatic,compact,sedan
+16500,2015,excellent,4 cylinders,diesel,34500,automatic,mid-size,sedan
+8800,2011,good,4 cylinders,gas,77312,manual,mid-size,sedan
+15495,2016,excellent,4 cylinders,gas,59312,automatic,mid-size,sedan
+15800,2016,like new,4 cylinders,gas,70678,automatic,mid-size,wagon
+6800,2015,good,4 cylinders,gas,91000,automatic,mid-size,sedan
+6900,2006,excellent,6 cylinders,gas,58000,automatic,full-size,sedan
+8495,2012,good,6 cylinders,gas,82000,automatic,full-size,sedan
+4995,2005,like new,6 cylinders,gas,61035,automatic,mid-size,sedan
+8000,2008,good,4 cylinders,gas,64000,automatic,mid-size,sedan
+16988,2010,like new,6 cylinders,gas,84000,automatic,compact,coupe
+185,2012,excellent,6 cylinders,gas,97776,automatic,full-size,sedan
+12985,2011,like new,6 cylinders,gas,80452,automatic,compact,sedan
+9500,2013,excellent,4 cylinders,gas,55000,manual,sub-compact,wagon
+14300,2012,excellent,6 cylinders,gas,56300,automatic,mid-size,coupe
+9000,2010,excellent,4 cylinders,gas,80761,automatic,full-size,wagon
+12495,2015,excellent,4 cylinders,gas,56791,automatic,mid-size,sedan
+6995,2010,new,6 cylinders,gas,93000,automatic,full-size,sedan
+6000,2015,good,4 cylinders,gas,81000,automatic,compact,sedan
+15895,2017,like new,4 cylinders,gas,33734,automatic,mid-size,sedan
+14390,2017,excellent,4 cylinders,gas,71219,automatic,mid-size,sedan
+17995,2018,like new,4 cylinders,gas,37000,automatic,mid-size,sedan
+8900,2011,like new,6 cylinders,gas,45346,automatic,full-size,sedan
+12000,2014,excellent,6 cylinders,gas,85000,automatic,full-size,sedan
