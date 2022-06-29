@@ -1,0 +1,10 @@
+Os arquivos aqui sao resultado de processamento do arquivo data_banknote_authentication.txt.
+Baixei esse arquivo de:
+  https://archive.ics.uci.edu/ml/datasets/banknote+authentication  OU
+  https://machinelearningmastery.com/standard-machine-learning-datasets/  item (5)
+
+Acrescentei o quinto atributo que são números aleatórios no intervalo de -30 a +30.
+
+As linhas pares (a primeira linha e' linha 0) tornaram-se exemplos de treino ax.txt e ay.txt.
+As linhas impares (a primeira linha e' linha 0) tornaram-se exemplos de teste qx.txt e qy.txt.
+
